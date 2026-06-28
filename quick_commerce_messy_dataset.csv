@@ -1,0 +1,1021 @@
+order_id,customer_id,platform,city,category,quantity,mrp,selling_price,discount_percent,delivery_fee,promised_time,delivery_time,order_value,payment_mode,membership,coupon_used,weekend,rating,delivery_partner
+10001,C1024,Blinkit,Hyderabad,Fruits,6,703,667.85,5,49.0,25,40,667.85,Card,Gold,Yes,No,4.0,Rider A
+10002,C1030,Blinkit,Bengaluru,Personal Care,1,532,532.0,0,49.0,30,38,3724.0,UPI,Gold,Yes,Yes,3.0,Rider D
+10003,C1157,,Chennai,Beverages,4,335,268.0,20,29.0,10,23,536.0,UPI,None,Yes,Yes,4.0,Rider E
+10004,C1299,BigBasket Now,Mumbai,Dairy,4,915,640.5,30,19.0,20,29,2562.0,UPI,None,No,No,3.0,Rider D
+10005,C1262,BigBasket Now,Bengaluru,Household,6,629,503.2,20,19.0,10,8,4025.6,Wallet,Gold,Yes,No,3.0,Rider C
+10006,C1047,Instamart,Delhi,Personal Care,2,1057,845.6,20,0.0,25,22,4228.0,Wallet,Silver,No,No,1.0,Rider D
+10007,C1252,Blinkit,Bengaluru,Household,5,767,728.65,5,19.0,30,28,2914.6,Wallet,Silver,No,Yes,2.0,Rider D
+10008,C1220,Instamart,Pune,fruit,6,862,689.6,20,59.0,20,19,4827.2,Card,Gold,Yes,Yes,2.0,Rider B
+10009,C1093,Instamart,Mumbai,Fruits,3,517,517.0,0,39.0,25,38,3102.0,COD,Gold,Yes,No,,Rider E
+10010,C1053,BigBasket Now,Pune,Snacks,1,843,716.55,15,19.0,25,32,1433.1,Card,Silver,Yes,Yes,3.0,Rider E
+10011,C1077,Blinkit,Mumbai,Beverages,1,147,147.0,0,0.0,10,23,588.0,Wallet,Gold,No,No,5.0,Rider C
+10012,C1238,BigBasket Now,Delhi,Dairy,2,1011,1011.0,0,19.0,10,20,2022.0,COD,None,No,No,,Rider B
+10013,C1185,Zepto,Pune,Beverages,1,1097,1097.0,0,49.0,15,26,5485.0,UPI,None,No,No,2.0,Rider C
+10014,C1168,Zepto,Hyderabad,Household,4,496,396.8,20,19.0,30,41,2777.6,Card,Gold,No,No,,Rider A
+10015,C1132,Zepto,Pune,Beverages,6,97,67.9,30,39.0,20,30,407.4,COD,Gold,Yes,Yes,2.0,Rider D
+10016,C1000,BigBasket Now,Pune,Dairy,2,442,397.8,10,59.0,15,25,795.6,Wallet,None,Yes,No,2.0,Rider D
+10017,C1205,Blinkit,Pune,Vegetables,3,720,720.0,0,19.0,25,34,720.0,Card,None,No,Yes,5.0,Rider E
+10018,C1280,Zepto,Chennai,Fruits,2,1011,758.25,25,49.0,20,19,2274.75,Wallet,,Yes,Yes,3.0,Rider B
+10019,C1166,Instamart,,Snacks,3,639,511.2,20,0.0,15,28,3067.2,Wallet,None,No,Yes,5.0,Rider B
+10020,C1093,Blinkit,Bengaluru,Vegetables,3,1112,889.6,20,39.0,10,19,1779.2,UPI,Silver,No,Yes,5.0,Rider A
+10021,C1050,BigBasket Now,Hyderabad,Fruits,2,548,520.6,5,39.0,20,16,3123.6,Card,None,No,No,5.0,Rider E
+10022,C1267,Instamart,Hyderabad,Vegetables,8,1019,815.2,20,19.0,15,32,5706.4,UPI,Silver,No,No,1.0,Rider B
+10023,C1155,Blinkit,Bengaluru,Personal Care,6,917,917.0,0,19.0,15,31,4585.0,Card,Silver,Yes,Yes,4.0,Rider D
+10024,C1220,BigBasket Now,Mumbai,fruit,4,373,279.75,25,29.0,15,15,1678.5,UPI,None,No,Yes,3.0,Rider E
+10025,C1169,Instamart,Hyderabad,Fruits,2,979,832.15,15,19.0,10,17,1664.3,UPI,Silver,No,Yes,2.0,Rider C
+10026,C1132,BigBasket Now,Bengaluru,Beverages,8,305,213.5,30,59.0,25,41,1281.0,UPI,Silver,Yes,Yes,4.0,Rider A
+10027,C1042,Zepto,Chennai,Dairy,2,590,590.0,0,39.0,10,13,590.0,COD,None,No,No,5.0,Rider B
+10028,C1082,,Chennai,Vegetables,4,128,102.4,20,29.0,15,13,512.0,Card,Silver,No,Yes,3.0,Rider C
+10029,C1009,Zepto,Hyderabad,Snacks,4,77,69.3,10,39.0,10,5,138.6,Wallet,None,No,No,5.0,Rider C
+10030,C1071,blinkit,Mumbai,Fruits,3,480,456.0,5,0.0,20,21,912.0,COD,Silver,Yes,Yes,1.0,Rider D
+10031,C1124,Instamart,Chennai,Snacks,3,1076,807.0,25,19.0,20,34,4035.0,Wallet,Gold,No,No,3.0,Rider E
+10032,C1111,Instamart,Bengaluru,Fruits,6,702,666.9,5,39.0,10,14,1333.8,Wallet,Silver,Yes,Yes,5.0,Rider A
+10033,C1204,Blinkit,Delhi,Fruits,5,226,203.4,10,29.0,10,9,813.6,UPI,None,Yes,No,3.0,Rider D
+10034,C1074,Blinkit,Pune,Beverages,7,346,311.4,10,59.0,30,45,934.2,UPI,None,Yes,Yes,1.0,Rider A
+10035,C1192,BigBasket Now,Hyderabad,Fruits,1,312,234.0,25,59.0,20,18,936.0,Wallet,Silver,Yes,No,1.0,Rider E
+10036,C1242,Instamart,Chennai,Household,5,1136,1136.0,0,19.0,30,27,4544.0,Card,None,No,No,4.0,Rider A
+10037,C1101,Blinkit,Hyderabad,Vegetables,6,1021,765.75,25,29.0,20,16,3828.75,Card,Gold,No,Yes,4.0,Rider C
+10038,C1250,Instamart,Pune,Beverages,5,243,182.25,25,39.0,15,31,1458.0,Wallet,Gold,Yes,No,1.0,Rider D
+10039,C1259,BigBasket Now,Mumbai,Snacks,4,75,67.5,10,19.0,25,22,135.0,UPI,Gold,No,No,2.0,Rider E
+10040,C1186,Zepto,Delhi,Snacks,7,1081,972.9,10,0.0,10,27,2918.7,UPI,Silver,No,No,3.0,Rider B
+10041,C1061,Instamart,Chennai,Dairy,6,892,802.8,10,39.0,25,30,1605.6,Card,None,Yes,No,3.0,Rider C
+10042,C1039,Instamart,Delhi,Household,5,173,147.05,15,0.0,25,38,735.25,UPI,Gold,No,Yes,2.0,Rider C
+10043,C1191,BigBasket Now,Chennai,Household,7,933,746.4,20,49.0,20,21,2985.6,UPI,Gold,No,No,5.0,Rider B
+10044,C1065,Zepto,Delhi,Snacks,6,626,532.1,15,29.0,10,22,2660.5,COD,None,No,No,,Rider B
+10045,C1201,Blinkit,Bengaluru,Personal Care,3,656,557.6,15,0.0,30,46,2230.4,Wallet,None,Yes,No,3.0,Rider D
+10046,C1124,Blinkit,Bengaluru,Dairy,2,915,869.25,5,29.0,30,31,3477.0,COD,Silver,Yes,Yes,,Rider D
+10047,C1192,Instamart,Mumbai,Household,1,824,700.4,15,39.0,30,31,3502.0,COD,Gold,Yes,Yes,3.0,Rider B
+10048,C1159,Blinkit,Bengaluru,Fruits,7,827,702.95,15,59.0,25,33,5623.6,Wallet,,Yes,No,5.0,Rider D
+10049,C1079,Zepto,Hyderabad,Personal Care,2,959,911.05,5,59.0,10,12,7288.4,UPI,None,Yes,Yes,2.0,Rider B
+10050,C1128,BigBasket Now,Pune,Household,2,116,87.0,25,0.0,20,19,174.0,COD,None,Yes,No,3.0,Rider B
+10051,C1235,Instamart,Mumbai,Personal Care,4,42,42.0,0,39.0,30,34,168.0,Card,Gold,No,No,1.0,Rider A
+10052,C1131,Zepto,Pune,Snacks,6,437,371.45,15,19.0,25,22,2971.6,UPI,None,No,No,3.0,Rider D
+10053,C1258,Blinkit,Bengaluru,Snacks,4,445,445.0,0,29.0,20,38,1780.0,Card,Silver,Yes,No,3.0,Rider A
+10054,C1248,BigBasket Now,Pune,Fruits,3,1055,844.0,20,39.0,15,17,844.0,Card,Gold,Yes,No,1.0,Rider A
+10055,C1160,Blinkit,Chennai,Vegetables,6,417,354.45,15,19.0,25,42,1063.35,Wallet,Gold,No,No,3.0,Rider C
+10056,C1040,Instamart,Chennai,Dairy,7,946,898.7,5,0.0,10,5,3594.8,Wallet,Silver,No,No,1.0,Rider A
+10057,C1228,Zepto,Mumbai,Dairy,8,1009,958.55,5,0.0,20,32,6709.85,Card,None,No,Yes,4.0,Rider A
+10058,C1099,Blinkit,Hyderabad,Dairy,6,990,990.0,0,29.0,10,13,5940.0,UPI,Silver,No,No,3.0,Rider A
+10059,C1243,BigBasket Now,Delhi,Household,5,173,173.0,0,39.0,15,13,1384.0,Card,Silver,Yes,Yes,,Rider C
+10060,C1163,BigBasket Now,,Household,2,349,279.2,20,49.0,15,20,1116.8,Wallet,Gold,Yes,No,1.0,Rider A
+10061,C1082,BigBasket Now,Chennai,Fruits,5,1026,820.8,20,49.0,30,35,1641.6,Card,Gold,No,No,,Rider D
+10062,C1235,Zepto,Pune,Beverages,2,394,374.3,5,29.0,15,23,1871.5,COD,None,No,No,3.0,Rider C
+10063,C1125,Zepto,Bengaluru,Dairy,4,447,379.95,15,29.0,15,15,759.9,Wallet,Silver,Yes,Yes,,Rider A
+10064,C1243,Zepto,Delhi,Dairy,1,990,990.0,0,29.0,10,5,3960.0,UPI,Gold,Yes,Yes,1.0,Rider C
+10065,C1133,Blinkit,Chennai,Personal Care,6,1089,762.3,30,19.0,15,24,762.3,COD,Silver,Yes,Yes,2.0,Rider C
+10066,C1167,BigBasket Now,Pune,Dairy,3,118,94.4,20,49.0,15,10,472.0,UPI,Gold,Yes,No,5.0,Rider D
+10067,C1281,Zepto,Pune,Beverages,2,169,143.65,15,59.0,10,17,430.95,Wallet,None,No,No,3.0,Rider C
+10068,C1290,Instamart,Delhi,Snacks,1,895,895.0,0,29.0,20,38,3580.0,Wallet,None,No,Yes,1.0,Rider D
+10069,C1207,Instamart,Delhi,Household,3,360,306.0,15,19.0,10,7,306.0,UPI,None,Yes,No,1.0,Rider E
+10070,C1074,Instamart,Mumbai,Vegetables,3,799,599.25,25,0.0,30,30,1198.5,Wallet,Silver,Yes,No,2.0,Rider A
+10071,C1198,Blinkit,Pune,Beverages,3,1028,925.2,10,59.0,10,24,3700.8,Wallet,None,Yes,No,2.0,Rider E
+10072,C1080,BigBasket Now,Mumbai,Fruits,3,486,486.0,0,19.0,25,36,1944.0,UPI,None,Yes,No,1.0,Rider D
+10073,C1215,Instamart, Chennai ,Vegetables,7,973,778.4,20,39.0,20,35,4670.4,Wallet,None,No,Yes,1.0,Rider A
+10074,C1234,Zepto,Delhi,Snacks,2,1042,885.7,15,0.0,15,24,2657.1,COD,Silver,No,Yes,4.0,Rider E
+10075,C1066,Blinkit,Pune,Dairy,2,1084,813.0,25,0.0,10,6,5691.0,Card,Gold,Yes,Yes,2.0,Rider B
+10076,C1113,Blinkit,Mumbai,Beverages,5,1047,942.3,10,19.0,15,31,5653.8,COD,Silver,Yes,No,5.0,Rider D
+10077,C1259,Zepto,Mumbai,Dairy,1,466,372.8,20,19.0,20,34,1118.4,Wallet,Gold,No,No,4.0,Rider B
+10078,C1184,blinkit,Hyderabad,fruit,2,581,581.0,0,29.0,30,26,4067.0,COD,Silver,No,No,5.0,Rider B
+10079,C1117,Zepto,Hyderabad,Personal Care,1,777,699.3,10,29.0,10,19,3496.5,COD,None,No,Yes,,Rider A
+10080,C1221,BigBasket Now,Hyderabad,Dairy,1,493,468.35,5,19.0,20,34,3746.8,Card,None,Yes,Yes,1.0,Rider A
+10081,C1182,Zepto,Delhi,Beverages,5,766,689.4,10,49.0,10,21,2068.2,Card,Silver,No,Yes,2.0,Rider A
+10082,C1049,Blinkit,Pune,Vegetables,5,538,403.5,25,39.0,15,24,2017.5,UPI,Gold,No,No,5.0,Rider E
+10083,C1022,Blinkit,Hyderabad,Fruits,7,1049,996.55,5,19.0,15,10,3986.2,Card,Gold,Yes,Yes,5.0,Rider E
+10084,C1265,BigBasket Now,Hyderabad,Vegetables,5,443,420.85,5,0.0,25,26,2104.25,UPI,None,No,Yes,4.0,Rider D
+10085,C1115,Blinkit,Mumbai,Vegetables,1,992,992.0,0,0.0,25,25,5952.0,COD,None,Yes,No,,Rider E
+10086,C1151,Zepto,Chennai,Beverages,1,933,699.75,25,19.0,30,33,3498.75,Card,None,Yes,Yes,,Rider C
+10087,C1122,BigBasket Now,Pune,Personal Care,8,433,368.05,15,39.0,20,34,368.05,UPI,Silver,Yes,No,2.0,Rider D
+10088,C1016,Blinkit,Chennai,Fruits,3,199,159.2,20,29.0,15,14,477.6,UPI,Gold,Yes,Yes,,Rider A
+10089,C1186,Zepto,,Personal Care,2,178,133.5,25,59.0,10,7,934.5,UPI,Gold,Yes,Yes,1.0,Rider A
+10090,C1147,BigBasket Now,Chennai,Vegetables,2,110,77.0,30,59.0,10,25,308.0,COD,Silver,No,No,3.0,Rider A
+10091,C1188,Instamart,Hyderabad,Beverages,8,758,682.2,10,29.0,20,16,682.2,Wallet,Gold,No,Yes,3.0,Rider D
+10092,C1046,Instamart,Bengaluru,Snacks,1,138,110.4,20,49.0,30,31,441.6,COD,Gold,Yes,No,4.0,Rider A
+10093,C1177,Instamart,Hyderabad,Vegetables,5,1046,784.5,25,19.0,15,25,3138.0,Wallet,Gold,Yes,Yes,4.0,Rider E
+10094,C1048,BigBasket Now,Delhi,Personal Care,2,254,190.5,25,39.0,20,26,190.5,COD,,No,No,4.0,Rider E
+10095,C1119,BigBasket Now,Bengaluru,Beverages,1,1066,1012.7,5,29.0,25,40,6076.2,Card,Silver,No,Yes,4.0,Rider D
+10096,C1171,BigBasket Now,Pune,Personal Care,4,566,452.8,20,49.0,15,14,1811.2,COD,Silver,Yes,Yes,2.0,Rider C
+10097,C1167,Zepto,Mumbai,Personal Care,2,1109,998.1,10,19.0,15,17,1996.2,Card,Silver,Yes,Yes,3.0,Rider C
+10098,C1054,,Bengaluru,Snacks,8,930,837.0,10,0.0,15,13,837.0,Wallet,Silver,Yes,No,4.0,Rider A
+10099,C1207,Blinkit,Pune,Vegetables,7,330,297.0,10,59.0,30,48,2079.0,Card,None,Yes,Yes,,Rider A
+10100,C1050,,Bengaluru,Household,7,969,823.65,15,,20,23,2470.95,COD,Silver,No,No,1.0,Rider E
+10101,C1167,Blinkit,Delhi,Household,8,878,702.4,20,0.0,15,30,702.4,COD,None,Yes,Yes,,Rider B
+10102,C1233,Zepto,Pune,Snacks,1,1103,992.7,10,59.0,10,23,5956.2,COD,Silver,No,Yes,,Rider B
+10103,C1182,Blinkit,Mumbai,Dairy,7,843,674.4,20,39.0,10,28,674.4,UPI,Gold,No,No,,Rider C
+10104,C1205,Zepto,Delhi,Snacks,4,583,583.0,0,,15,19,1749.0,UPI,None,Yes,No,,Rider E
+10105,C1211,BigBasket Now,Mumbai,Household,3,502,351.4,30,39.0,15,21,2108.4,Card,Silver,No,No,4.0,Rider B
+10106,C1125,Instamart,Mumbai,Snacks,8,1026,1026.0,0,39.0,20,26,2052.0,COD,Gold,No,No,1.0,Rider A
+10107,C1176,Blinkit,Pune,Fruits,4,1196,1076.4,10,0.0,15,26,5382.0,COD,None,Yes,Yes,2.0,Rider B
+10108,C1206,Zepto,Hyderabad,Personal Care,2,965,868.5,10,59.0,15,16,4342.5,Card,Silver,Yes,Yes,,Rider D
+10109,C1214,Zepto,Bengaluru,Snacks,8,279,223.2,20,49.0,10,13,223.2,Wallet,Silver,Yes,No,2.0,Rider D
+10110,C1003,blinkit,Mumbai,Snacks,8,377,301.6,20,59.0,30,48,1508.0,Wallet,Silver,No,No,,Rider A
+10111,C1014,Blinkit,Hyderabad,Fruits,6,409,306.75,25,0.0,20,35,2454.0,Wallet,Gold,Yes,Yes,,Rider D
+10112,C1187,Instamart,Delhi,Household,4,299,269.1,10,29.0,10,26,1883.7,COD,Silver,No,Yes,3.0,Rider C
+10113,C1170,Instamart,Hyderabad,Dairy,4,767,536.9,30,59.0,25,32,4295.2,UPI,Silver,Yes,No,,Rider C
+10114,C1204,BigBasket Now,Hyderabad,Beverages,1,301,240.8,20,39.0,10,6,1204.0,UPI,Gold,Yes,Yes,4.0,Rider E
+10115,C1192,Zepto,Pune,Personal Care,2,163,114.1,30,19.0,30,42,114.1,Wallet,None,Yes,Yes,,Rider B
+10116,C1006,,Bengaluru,Household,5,115,97.75,15,49.0,10,25,488.75,COD,Gold,No,Yes,3.0,Rider A
+10117,C1254,Blinkit,Chennai,Household,7,922,737.6,20,49.0,30,26,5163.2,Wallet,Gold,Yes,No,5.0,Rider E
+10118,C1052,Blinkit,Pune,Snacks,4,358,304.3,15,19.0,25,37,304.3,Wallet,Gold,Yes,Yes,1.0,Rider B
+10119,C1141,Zepto,,Personal Care,3,288,273.6,5,0.0,25,20,1641.6,Card,None,Yes,No,,Rider E
+10120,C1016,Blinkit,Chennai,Fruits,2,1060,901.0,15,39.0,20,16,4505.0,COD,None,Yes,No,5.0,Rider A
+10121,C1224,BigBasket Now,Pune,Vegetables,3,687,618.3,10,0.0,30,48,3709.8,Card,None,No,No,4.0,Rider D
+10122,C1149,Instamart,Chennai,Beverages,6,597,417.9,30,49.0,30,35,417.9,Card,None,No,No,2.0,Rider D
+10123,C1119,BigBasket Now,Mumbai,Personal Care,1,833,624.75,25,29.0,25,39,3123.75,COD,Silver,Yes,Yes,3.0,Rider B
+10124,C1255,Instamart,Hyderabad,Fruits,8,341,306.9,10,39.0,30,46,1227.6,Card,Silver,Yes,No,,Rider B
+10125,C1235,Blinkit,Hyderabad,Household,6,561,448.8,20,0.0,10,17,1795.2,Wallet,None,No,No,4.0,Rider E
+10126,C1047,Zepto,Pune,Dairy,6,453,430.35,5,49.0,15,16,2582.1,Wallet,None,Yes,Yes,1.0,Rider D
+10127,C1237,Blinkit,Bengaluru,Dairy,1,806,564.2,30,29.0,10,16,2821.0,UPI,Gold,Yes,Yes,5.0,Rider D
+10128,C1049,BigBasket Now,Hyderabad,Household,3,477,429.3,10,29.0,20,28,429.3,COD,Gold,Yes,No,1.0,Rider A
+10129,C1234,BigBasket Now,Chennai,Household,7,144,144.0,0,0.0,30,36,288.0,COD,Silver,Yes,Yes,,Rider E
+10130,C1189,Zepto,Pune,Vegetables,3,845,802.75,5,0.0,25,25,4013.75,COD,Gold,Yes,Yes,3.0,Rider E
+10131,C1162,Blinkit,Bengaluru,Personal Care,5,1030,1030.0,0,49.0,10,9,8240.0,UPI,Silver,No,No,3.0,Rider D
+10132,C1086,blinkit,Bengaluru,Household,3,294,264.6,10,59.0,25,32,264.6,Wallet,None,Yes,Yes,,Rider B
+10133,C1071,BigBasket Now,Chennai,Snacks,1,199,159.2,20,59.0,20,38,318.4,Wallet,Silver,No,Yes,4.0,Rider A
+10134,C1029,Zepto,Pune,Snacks,3,789,749.55,5,39.0,20,22,2248.65,COD,Silver,No,Yes,2.0,Rider A
+10135,C1085,Instamart,Delhi,Fruits,6,595,476.0,20,39.0,20,25,3808.0,UPI,Gold,Yes,Yes,5.0,Rider D
+10136,C1186,BigBasket Now,Mumbai,Vegetables,4,626,626.0,0,0.0,20,21,4382.0,COD,Silver,Yes,Yes,,Rider C
+10137,C1259,Instamart,Hyderabad,Vegetables,8,335,251.25,25,0.0,10,19,1256.25,Card,Silver,No,Yes,4.0,Rider B
+10138,C1092,Zepto,Pune,Vegetables,4,606,484.8,20,49.0,15,14,969.6,UPI,None,No,No,2.0,Rider B
+10139,C1157,Zepto,Chennai,Fruits,7,320,256.0,20,59.0,15,28,256.0,COD,Silver,No,No,1.0,Rider A
+10140,C1136,Zepto,Bengaluru,Beverages,6,878,614.6,30,0.0,25,24,1843.8,COD,None,Yes,No,,Rider D
+10141,C1125,Instamart,Pune,Household,7,1096,1096.0,0,49.0,10,16,1096.0,COD,Gold,No,No,5.0,Rider A
+10142,C1010,Zepto,Chennai,Vegetables,3,1126,788.2,30,19.0,30,29,1576.4,COD,Silver,Yes,Yes,1.0,Rider B
+10143,C1295,BigBasket Now,Hyderabad,Vegetables,8,575,575.0,0,0.0,30,45,3450.0,UPI,None,Yes,Yes,3.0,Rider A
+10144,C1143,Blinkit,Chennai,Fruits,7,992,843.2,15,19.0,30,41,3372.8,Card,Gold,No,No,2.0,Rider A
+10145,C1269,Blinkit,Delhi,Fruits,6,836,627.0,25,29.0,25,39,4389.0,Card,Silver,No,No,4.0,Rider E
+10146,C1180,Zepto,Delhi,Personal Care,1,149,134.1,10,29.0,30,29,268.2,Card,Gold,No,No,2.0,Rider E
+10147,C1203,BigBasket Now,Pune,Fruits,1,82,77.9,5,0.0,15,23,389.5,COD,None,Yes,Yes,3.0,Rider A
+10148,C1020,Instamart,Chennai,Dairy,6,1105,1105.0,0,59.0,25,27,3315.0,UPI,Gold,No,Yes,4.0,Rider E
+10149,C1261,Zepto,Mumbai,Snacks,5,1133,1076.35,5,29.0,25,23,4305.4,UPI,None,No,No,5.0,Rider E
+10150,C1280,Instamart,,Beverages,5,493,369.75,25,49.0,25,26,2958.0,Wallet,Silver,Yes,Yes,3.0,Rider B
+10151,C1299,BigBasket Now,Chennai,Dairy,3,426,340.8,20,19.0,30,37,2044.8,COD,Silver,No,No,2.0,Rider C
+10152,C1282,Blinkit,Hyderabad,Household,6,156,109.2,30,39.0,10,10,109.2,Wallet,Silver,No,Yes,5.0,Rider B
+10153,C1180,Zepto,Pune,Vegetables,5,356,302.6,15,49.0,20,36,605.2,Wallet,Silver,Yes,No,1.0,Rider A
+10154,C1060,BigBasket Now,Delhi,Beverages,3,880,616.0,30,39.0,30,43,3080.0,UPI,Silver,No,No,3.0,Rider C
+10155,C1284,BigBasket Now,Pune,Dairy,1,639,575.1,10,,25,36,4600.8,Wallet,Silver,No,Yes,5.0,Rider C
+10156,C1297,Zepto,Chennai,Household,6,336,285.6,15,29.0,30,37,1142.4,COD,Gold,No,Yes,1.0,Rider A
+10157,C1274,Instamart,Hyderabad,Beverages,7,565,452.0,20,49.0,25,29,3164.0,Wallet,Silver,No,Yes,5.0,Rider C
+10158,C1117,Blinkit,Delhi,Dairy,7,967,967.0,0,59.0,10,21,2901.0,Card,Silver,No,No,4.0,Rider E
+10159,C1047,,Mumbai,Dairy,6,743,557.25,25,0.0,30,48,2786.25,Card,Gold,No,No,5.0,Rider D
+10160,C1106,Zepto,Delhi,Vegetables,1,360,288.0,20,59.0,20,31,576.0,COD,None,Yes,No,1.0,Rider A
+10161,C1155,BigBasket Now,Chennai,Beverages,1,668,501.0,25,59.0,30,25,501.0,Card,Gold,No,No,,Rider E
+10162,C1210,Blinkit,Bengaluru,Vegetables,2,1093,1038.35,5,0.0,30,31,2076.7,UPI,Gold,No,No,5.0,Rider D
+10163,C1296,Instamart,Bengaluru,Personal Care,4,167,125.25,25,29.0,10,26,626.25,Card,Gold,No,Yes,5.0,Rider A
+10164,C1197,Blinkit,Chennai,Vegetables,7,754,716.3,5,49.0,25,39,716.3,Wallet,Gold,Yes,Yes,2.0,Rider A
+10165,C1003,BigBasket Now,Mumbai,Snacks,5,366,292.8,20,39.0,15,20,585.6,Card,None,No,Yes,4.0,Rider C
+10166,C1124,Blinkit,Bengaluru,Vegetables,6,856,642.0,25,39.0,25,20,1926.0,UPI,Silver,No,No,1.0,Rider C
+10167,C1206,Blinkit,Chennai,Snacks,6,1133,793.1,30,49.0,25,30,3172.4,Wallet,Gold,No,No,3.0,Rider B
+10168,C1012,Instamart,Bengaluru,Vegetables,3,932,932.0,0,0.0,20,36,3728.0,COD,None,Yes,No,4.0,Rider B
+10169,C1207,BigBasket Now,Pune,Beverages,4,366,329.4,10,29.0,20,21,2635.2,Card,Gold,No,Yes,,Rider C
+10170,C1126,BigBasket Now,Hyderabad,Beverages,4,941,752.8,20,19.0,20,32,1505.6,UPI,None,No,No,1.0,Rider E
+10171,C1044,Zepto,Bengaluru,Dairy,4,337,303.3,10,59.0,10,17,606.6,UPI,None,No,No,2.0,Rider A
+10172,C1064,BigBasket Now,Mumbai,Dairy,7,677,677.0,0,39.0,15,19,2031.0,COD,Gold,Yes,No,,Rider C
+10173,C1205,Instamart, Chennai ,Fruits,3,884,884.0,0,29.0,25,27,1768.0,COD,None,Yes,Yes,4.0,Rider A
+10174,C1079,BigBasket Now,Pune,Fruits,5,371,315.35,15,59.0,15,19,946.05,Card,None,No,No,4.0,Rider E
+10175,C1146,Blinkit,Hyderabad,Beverages,1,754,754.0,0,19.0,10,25,1508.0,UPI,Silver,Yes,No,,Rider A
+10176,C1113,Instamart,Hyderabad,Fruits,6,894,670.5,25,39.0,25,43,5364.0,COD,None,No,Yes,,Rider B
+10177,C1250,Zepto,Chennai,Personal Care,5,917,687.75,25,19.0,30,29,2063.25,Card,None,No,Yes,1.0,Rider B
+10178,C1103,Instamart,Bengaluru,Vegetables,8,772,694.8,10,59.0,25,22,5558.4,Card,None,Yes,Yes,5.0,Rider D
+10179,C1153,Zepto,Pune,Vegetables,4,312,234.0,25,29.0,20,37,468.0,Wallet,Gold,Yes,No,4.0,Rider B
+10180,C1184,BigBasket Now,Bengaluru,Fruits,1,274,205.5,25,29.0,20,15,1027.5,Card,Gold,No,No,1.0,Rider B
+10181,C1185,Instamart,Bengaluru,Beverages,2,704,598.4,15,0.0,25,38,598.4,Wallet,Silver,Yes,No,,Rider E
+10182,C1250,Zepto,Hyderabad,Dairy,1,581,581.0,0,29.0,25,33,1162.0,COD,None,No,Yes,1.0,Rider B
+10183,C1151,Instamart,Bengaluru,Personal Care,3,96,96.0,0,0.0,25,24,480.0,COD,Silver,Yes,No,3.0,Rider B
+10184,C1129,Zepto, Chennai ,Fruits,2,794,754.3,5,49.0,30,36,5280.1,UPI,Gold,No,No,4.0,Rider B
+10185,C1041,Zepto,Pune,Vegetables,3,653,522.4,20,19.0,30,45,4179.2,Wallet,Gold,Yes,No,4.0,Rider B
+10186,C1016,BigBasket Now,Bengaluru,Dairy,2,487,365.25,25,59.0,20,15,365.25,Wallet,Silver,Yes,No,,Rider B
+10187,C1226,Instamart,Hyderabad,Vegetables,8,376,319.6,15,0.0,20,15,1917.6,Wallet,Silver,Yes,No,5.0,Rider E
+10188,C1169,,Hyderabad,Beverages,7,206,144.2,30,29.0,10,28,1153.6,Card,Silver,No,Yes,2.0,Rider B
+10189,C1296,,Hyderabad,Beverages,7,956,717.0,25,29.0,10,9,2868.0,Wallet,Silver,No,Yes,2.0,Rider B
+10190,C1129,Blinkit,Bengaluru,Beverages,5,455,364.0,20,59.0,10,12,2912.0,Card,None,No,Yes,5.0,Rider E
+10191,C1290,Blinkit,Delhi,Personal Care,2,271,203.25,25,39.0,30,43,609.75,UPI,None,Yes,No,,Rider D
+10192,C1243,Blinkit,Bengaluru,Dairy,1,1154,1096.3,5,39.0,15,28,4385.2,UPI,Silver,Yes,Yes,,Rider E
+10193,C1069,BigBasket Now,Chennai,Beverages,4,476,404.6,15,49.0,20,18,809.2,COD,Gold,No,No,,Rider A
+10194,C1262,Instamart,Pune,Snacks,1,563,563.0,0,,15,21,3378.0,UPI,Silver,No,Yes,1.0,Rider B
+10195,C1228,Blinkit,Hyderabad,Snacks,2,561,504.9,10,,15,32,4039.2,UPI,Gold,No,Yes,2.0,Rider E
+10196,C1128,Instamart,Delhi,Fruits,1,633,443.1,30,29.0,25,24,1329.3,Wallet,None,No,Yes,1.0,Rider A
+10197,C1243,Zepto,Pune,Household,8,413,330.4,20,39.0,30,37,1321.6,UPI,Silver,No,Yes,3.0,Rider B
+10198,C1239,Instamart,Hyderabad,Snacks,7,129,122.55,5,29.0,15,21,735.3,UPI,Silver,No,No,2.0,Rider A
+10199,C1074,Zepto,Mumbai,Snacks,5,549,466.65,15,0.0,30,26,2333.25,COD,None,Yes,Yes,5.0,Rider A
+10200,C1292,Blinkit,Mumbai,Household,5,448,313.6,30,19.0,25,40,940.8,UPI,Silver,No,No,5.0,Rider B
+10201,C1207,Instamart,Chennai,Personal Care,6,757,529.9,30,59.0,30,47,3179.4,Wallet,None,No,Yes,,Rider C
+10202,C1232,BigBasket Now, Chennai ,Snacks,5,348,330.6,5,19.0,15,10,661.2,Card,Silver,No,No,,Rider E
+10203,C1097,Blinkit,Hyderabad,Vegetables,5,1169,876.75,25,49.0,20,17,5260.5,Wallet,Silver,No,Yes,4.0,Rider C
+10204,C1011,Zepto,Pune,Dairy,4,398,358.2,10,59.0,20,32,358.2,Card,Gold,No,No,2.0,Rider E
+10205,C1050,Zepto,Bengaluru,Personal Care,1,618,432.6,30,19.0,30,45,432.6,UPI,Gold,No,Yes,1.0,Rider B
+10206,C1165,blinkit,Bengaluru,Dairy,6,594,475.2,20,59.0,10,25,475.2,Wallet,Silver,No,Yes,1.0,Rider D
+10207,C1253,BigBasket Now,Mumbai,Snacks,1,133,133.0,0,0.0,30,35,798.0,COD,Gold,No,No,2.0,Rider A
+10208,C1271,Blinkit,Mumbai,Household,6,78,74.1,5,39.0,15,14,444.6,Card,None,No,Yes,,Rider E
+10209,C1158,BigBasket Now,Hyderabad,Dairy,6,568,397.6,30,49.0,25,21,1988.0,Card,Silver,Yes,No,1.0,Rider C
+10210,C1046,Blinkit,Hyderabad,Vegetables,2,348,261.0,25,0.0,15,22,1044.0,Card,Silver,No,Yes,2.0,Rider B
+10211,C1124,BigBasket Now,Delhi,Vegetables,6,1122,1122.0,0,39.0,20,37,8976.0,Card,Silver,Yes,Yes,,Rider A
+10212,C1179,,Bengaluru,Beverages,7,174,121.8,30,39.0,25,41,852.6,Card,Gold,No,Yes,3.0,Rider D
+10213,C1166,BigBasket Now,Pune,Dairy,5,535,508.25,5,39.0,20,21,2033.0,Card,,No,Yes,3.0,Rider C
+10214,C1127,Zepto,Mumbai,Personal Care,8,221,198.9,10,19.0,10,20,198.9,Card,None,No,Yes,4.0,Rider B
+10215,C1012,Blinkit,Bengaluru,Fruits,3,930,651.0,30,29.0,15,19,1953.0,COD,Gold,Yes,No,,Rider D
+10216,C1203,Instamart,Chennai,Beverages,4,224,190.4,15,19.0,20,35,190.4,UPI,Gold,Yes,No,,Rider A
+10217,C1056,Blinkit,Delhi,Vegetables,7,80,80.0,0,0.0,20,17,240.0,Card,None,Yes,Yes,5.0,Rider C
+10218,C1114,Blinkit,Mumbai,Personal Care,3,1056,1056.0,0,0.0,20,21,5280.0,COD,,Yes,Yes,5.0,Rider A
+10219,C1136,Blinkit,Mumbai,Personal Care,1,875,612.5,30,59.0,30,36,4900.0,COD,None,No,No,,Rider C
+10220,C1214,BigBasket Now,Bengaluru,Snacks,7,857,728.45,15,39.0,20,32,2185.35,UPI,Gold,No,No,2.0,Rider B
+10221,C1025,BigBasket Now,Pune,Beverages,6,277,277.0,0,59.0,30,26,2216.0,COD,Silver,Yes,No,,Rider D
+10222,C1194,Zepto,Pune,Household,7,1084,975.6,10,29.0,30,42,1951.2,Wallet,None,No,No,1.0,Rider E
+10223,C1242,Instamart,Hyderabad,Beverages,8,497,397.6,20,49.0,20,23,1590.4,Card,Gold,No,Yes,5.0,Rider B
+10224,C1235,Zepto,Pune,Household,1,789,749.55,5,29.0,15,14,5246.85,COD,Silver,Yes,No,2.0,Rider C
+10225,C1267,Instamart,Delhi,Personal Care,2,808,808.0,0,29.0,20,26,5656.0,COD,Silver,Yes,No,,Rider D
+10226,C1003,Zepto,Mumbai,Snacks,4,397,277.9,30,49.0,30,29,1667.4,COD,Silver,No,Yes,5.0,Rider B
+10227,C1091,Instamart,Pune,Beverages,5,41,32.8,20,29.0,20,16,164.0,Card,Silver,No,Yes,5.0,Rider D
+10228,C1148,Instamart,Chennai,Personal Care,8,221,209.95,5,39.0,15,23,1259.7,UPI,None,No,No,4.0,Rider E
+10229,C1296,Zepto,Hyderabad,Vegetables,6,565,508.5,10,0.0,15,22,2034.0,COD,Gold,Yes,No,4.0,Rider D
+10230,C1013,Blinkit,Hyderabad,Beverages,8,1116,948.6,15,39.0,25,40,6640.2,Wallet,Silver,Yes,Yes,4.0,Rider D
+10231,C1118,Zepto,Delhi,Beverages,1,1046,993.7,5,59.0,30,25,4968.5,COD,Silver,No,Yes,1.0,Rider B
+10232,C1254,Blinkit,Bengaluru,Beverages,8,197,157.6,20,0.0,10,8,630.4,COD,Silver,Yes,No,5.0,Rider B
+10233,C1074,Instamart,Mumbai,Vegetables,1,873,611.1,30,19.0,10,25,3055.5,COD,Gold,No,No,3.0,Rider C
+10234,C1026,Instamart,Mumbai,Vegetables,7,1178,1001.3,15,39.0,30,38,5006.5,COD,Gold,Yes,Yes,2.0,Rider E
+10235,C1298,blinkit,Mumbai,Household,6,805,684.25,15,19.0,25,42,5474.0,UPI,None,No,Yes,5.0,Rider A
+10236,C1140,Zepto,Delhi,Dairy,4,877,701.6,20,59.0,20,16,2806.4,Wallet,Silver,No,Yes,2.0,Rider A
+10237,C1070,Blinkit,Hyderabad,Snacks,3,408,346.8,15,0.0,10,6,1040.4,Wallet,Gold,No,Yes,5.0,Rider B
+10238,C1051,BigBasket Now,Chennai,Vegetables,2,338,236.6,30,0.0,15,26,1656.2,Card,None,No,No,,Rider D
+10239,C1068,Blinkit,Bengaluru,Household,8,357,249.9,30,29.0,10,27,999.6,COD,None,Yes,No,3.0,Rider C
+10240,C1118,BigBasket Now,Chennai,Dairy,7,1163,814.1,30,19.0,15,14,4070.5,Card,None,Yes,Yes,,Rider B
+10241,C1205,Blinkit,,Household,6,416,353.6,15,0.0,20,36,1414.4,UPI,Silver,No,No,1.0,Rider D
+10242,C1155,Blinkit,Bengaluru,Vegetables,8,230,218.5,5,29.0,25,28,874.0,COD,Gold,Yes,Yes,3.0,Rider B
+10243,C1088,Instamart,Mumbai,Snacks,8,351,263.25,25,19.0,20,16,1579.5,COD,Gold,Yes,No,1.0,Rider E
+10244,C1082,BigBasket Now,Delhi,Fruits,1,971,971.0,0,0.0,30,28,1942.0,Wallet,None,Yes,No,5.0,Rider C
+10245,C1086,Blinkit,Mumbai,Fruits,8,196,176.4,10,29.0,15,21,529.2,COD,,Yes,Yes,1.0,Rider B
+10246,C1060,Instamart,Delhi,Vegetables,3,1056,950.4,10,49.0,30,42,950.4,COD,Silver,Yes,No,4.0,Rider E
+10247,C1273,Zepto,Chennai,Fruits,2,456,433.2,5,0.0,15,33,3465.6,Card,None,Yes,Yes,2.0,Rider B
+10248,C1265,Blinkit,Mumbai,Beverages,2,581,581.0,0,0.0,25,32,2324.0,Card,Gold,Yes,Yes,1.0,Rider E
+10249,C1089,Instamart,Mumbai,Fruits,8,730,730.0,0,49.0,10,11,2190.0,UPI,Silver,No,No,1.0,Rider A
+10250,C1085,Zepto,Mumbai,Household,3,541,513.95,5,19.0,30,46,2055.8,Card,None,No,Yes,1.0,Rider D
+10251,C1035,Blinkit,Bengaluru,Household,1,117,99.45,15,29.0,30,35,696.15,UPI,None,No,Yes,4.0,Rider D
+10252,C1238,Zepto,Delhi,Snacks,5,316,284.4,10,59.0,20,16,568.8,UPI,Silver,Yes,Yes,2.0,Rider E
+10253,C1294,Blinkit,Delhi,Personal Care,7,977,781.6,20,59.0,15,25,4689.6,Wallet,Silver,Yes,Yes,,Rider C
+10254,C1153,BigBasket Now,Hyderabad,Fruits,2,913,639.1,30,39.0,20,15,4473.7,Wallet,None,No,No,2.0,Rider C
+10255,C1201,BigBasket Now, Chennai ,Fruits,5,1156,1098.2,5,29.0,10,16,2196.4,COD,Gold,No,No,,Rider E
+10256,C1021,BigBasket Now,Bengaluru,Snacks,5,535,535.0,0,,15,31,1605.0,COD,Gold,Yes,No,5.0,Rider D
+10257,C1096,Zepto,Delhi,Beverages,1,671,570.35,15,0.0,20,31,1711.05,UPI,Gold,No,No,,Rider C
+10258,C1192,Zepto, Chennai ,Personal Care,7,246,196.8,20,0.0,30,46,1180.8,Wallet,Silver,No,No,3.0,Rider D
+10259,C1255,BigBasket Now,Mumbai,Personal Care,1,1109,776.3,30,0.0,10,25,1552.6,Wallet,Silver,No,Yes,,Rider E
+10260,C1070,Blinkit,Mumbai,Vegetables,4,979,979.0,0,49.0,20,30,979.0,Wallet,Gold,No,Yes,3.0,Rider E
+10261,C1043,BigBasket Now,Delhi,Personal Care,6,92,78.2,15,59.0,30,38,391.0,COD,,No,Yes,5.0,Rider C
+10262,C1083,Instamart,Pune,Beverages,3,326,309.7,5,59.0,30,26,1548.5,UPI,None,No,No,3.0,Rider B
+10263,C1164,BigBasket Now,Delhi,Fruits,5,597,537.3,10,29.0,25,26,3761.1,COD,Silver,No,No,1.0,Rider B
+10264,C1081,Instamart,Chennai,Vegetables,5,962,769.6,20,49.0,25,40,6156.8,Wallet,Gold,No,No,3.0,Rider D
+10265,C1062,Instamart,Delhi,Household,1,1124,786.8,30,0.0,20,35,3934.0,COD,None,No,No,2.0,Rider A
+10266,C1211,Blinkit,Mumbai,Vegetables,3,1163,1163.0,0,59.0,30,46,2326.0,Wallet,Silver,No,No,4.0,Rider D
+10267,C1073,BigBasket Now,Pune,Dairy,3,729,656.1,10,19.0,15,32,3936.6,UPI,Silver,Yes,Yes,5.0,Rider B
+10268,C1140,Zepto,Bengaluru,Vegetables,4,925,786.25,15,49.0,15,28,1572.5,COD,Gold,No,No,2.0,Rider D
+10269,C1260,Instamart,Hyderabad,Vegetables,4,603,452.25,25,29.0,10,24,904.5,COD,None,Yes,No,1.0,Rider E
+10270,C1001,BigBasket Now,Pune,Household,3,187,187.0,0,39.0,20,21,935.0,UPI,Silver,Yes,Yes,5.0,Rider D
+10271,C1174,Instamart,Hyderabad,Beverages,4,266,226.1,15,19.0,15,19,904.4,COD,None,Yes,Yes,2.0,Rider A
+10272,C1032,Instamart,Pune,Fruits,2,1073,965.7,10,39.0,25,31,6759.9,Wallet,Gold,Yes,No,5.0,Rider C
+10273,C1068,BigBasket Now,Delhi,Personal Care,8,555,555.0,0,19.0,25,38,3330.0,Card,Gold,No,Yes,3.0,Rider B
+10274,C1224,Zepto,Pune,Personal Care,4,196,147.0,25,29.0,30,25,588.0,COD,None,Yes,Yes,1.0,Rider C
+10275,C1275,Instamart,Hyderabad,Dairy,3,461,391.85,15,49.0,10,25,2351.1,COD,Silver,Yes,Yes,,Rider B
+10276,C1232,Blinkit,Mumbai,Fruits,3,767,651.95,15,29.0,10,27,5215.6,Wallet,Gold,No,No,4.0,Rider B
+10277,C1260,BigBasket Now,Bengaluru,Dairy,5,262,209.6,20,59.0,30,33,209.6,Card,None,No,No,,Rider D
+10278,C1070,Blinkit,Chennai,Vegetables,7,369,258.3,30,0.0,25,24,258.3,UPI,Silver,Yes,Yes,5.0,Rider E
+10279,C1286,BigBasket Now,Delhi,Household,4,185,129.5,30,0.0,20,25,518.0,Card,Silver,No,Yes,1.0,Rider E
+10280,C1292,BigBasket Now,Chennai,Beverages,1,298,283.1,5,39.0,25,34,849.3,Wallet,None,Yes,No,,Rider D
+10281,C1195,Blinkit,Pune,Vegetables,4,330,330.0,0,0.0,25,39,2310.0,Card,None,Yes,Yes,1.0,Rider B
+10282,C1205,Zepto,Bengaluru,Household,1,41,41.0,0,49.0,25,21,287.0,COD,,Yes,No,1.0,Rider D
+10283,C1073,Zepto,Hyderabad,Beverages,6,252,176.4,30,0.0,10,10,1234.8,UPI,Gold,Yes,Yes,5.0,Rider E
+10284,C1279,Instamart,Delhi,Snacks,1,1140,1140.0,0,,10,26,4560.0,UPI,,No,Yes,1.0,Rider B
+10285,C1279,Instamart,Pune,Fruits,2,918,918.0,0,59.0,30,27,3672.0,UPI,Gold,No,No,3.0,Rider C
+10286,C1295,Instamart,Bengaluru,Fruits,2,645,612.75,5,0.0,25,39,612.75,UPI,None,Yes,No,4.0,Rider D
+10287,C1030,Blinkit,Pune,Personal Care,3,471,329.7,30,39.0,10,5,329.7,Card,None,No,No,3.0,Rider B
+10288,C1014,Instamart,Delhi,Fruits,3,557,389.9,30,39.0,20,26,1169.7,Wallet,None,No,No,2.0,Rider A
+10289,C1118,Instamart,Mumbai,Fruits,4,884,707.2,20,29.0,10,15,1414.4,Card,Gold,Yes,No,4.0,Rider C
+10290,C1234,,Bengaluru,Beverages,1,791,791.0,0,59.0,30,28,3164.0,Wallet,None,Yes,Yes,2.0,Rider C
+10291,C1060,Zepto,Hyderabad,Snacks,3,67,50.25,25,59.0,20,28,251.25,Wallet,Gold,No,No,1.0,Rider A
+10292,C1072,Blinkit,Hyderabad,Fruits,7,468,351.0,25,29.0,20,34,702.0,UPI,,Yes,Yes,1.0,Rider C
+10293,C1252,Instamart,Delhi,Vegetables,2,192,182.4,5,29.0,30,28,912.0,Wallet,Silver,Yes,No,,Rider A
+10294,C1015,BigBasket Now,Bengaluru,Fruits,4,983,884.7,10,29.0,20,21,5308.2,COD,None,Yes,Yes,1.0,Rider A
+10295,C1134,Zepto,Chennai,Vegetables,8,363,254.1,30,0.0,30,34,254.1,Wallet,Silver,Yes,Yes,1.0,Rider A
+10296,C1181,Instamart,Hyderabad,Personal Care,3,645,645.0,0,19.0,20,19,3870.0,COD,Silver,No,Yes,5.0,Rider A
+10297,C1194,Blinkit,Bengaluru,Personal Care,4,548,383.6,30,19.0,15,19,2685.2,COD,,No,No,1.0,Rider A
+10298,C1120,Instamart,,Snacks,8,243,182.25,25,39.0,25,31,364.5,UPI,Silver,No,Yes,4.0,Rider A
+10299,C1218,BigBasket Now,Chennai,Fruits,4,1033,878.05,15,0.0,15,17,4390.25,COD,Silver,No,Yes,3.0,Rider E
+10300,C1247,Zepto,Hyderabad,Beverages,7,157,157.0,0,0.0,30,32,157.0,Wallet,None,Yes,Yes,5.0,Rider B
+10301,C1051,Blinkit,Delhi,Dairy,8,1085,759.5,30,39.0,20,21,2278.5,UPI,Silver,No,Yes,2.0,Rider C
+10302,C1243,BigBasket Now,Mumbai,Vegetables,1,779,779.0,0,59.0,10,27,779.0,Wallet,None,Yes,Yes,4.0,Rider E
+10303,C1198,Instamart,Pune,Fruits,6,325,243.75,25,59.0,20,19,731.25,Card,,No,Yes,4.0,Rider B
+10304,C1098,Instamart,Pune,Dairy,4,113,101.7,10,0.0,25,24,711.9,UPI,None,Yes,Yes,3.0,Rider D
+10305,C1261,BigBasket Now,Pune,Vegetables,4,517,517.0,0,19.0,25,31,4136.0,Card,Silver,No,No,2.0,Rider C
+10306,C1211,Blinkit,Hyderabad,Dairy,3,105,89.25,15,19.0,15,20,89.25,Card,None,No,No,4.0,Rider E
+10307,C1133,Zepto,Hyderabad,Fruits,5,1162,871.5,25,39.0,25,24,2614.5,Card,None,Yes,No,1.0,Rider B
+10308,C1299,BigBasket Now,Delhi,Dairy,4,519,441.15,15,19.0,15,12,2205.75,Wallet,Gold,Yes,No,1.0,Rider A
+10309,C1070,BigBasket Now,Chennai,Beverages,7,633,633.0,0,29.0,20,20,1266.0,Wallet,Gold,No,No,5.0,Rider E
+10310,C1129,BigBasket Now,Bengaluru,Household,5,434,368.9,15,59.0,10,23,1475.6,Wallet,Silver,No,Yes,,Rider A
+10311,C1227,BigBasket Now,Mumbai,Personal Care,3,1006,955.7,5,39.0,20,15,5734.2,Card,Silver,Yes,Yes,5.0,Rider D
+10312,C1184,BigBasket Now,Pune,Snacks,6,861,817.95,5,19.0,15,21,3271.8,Card,Silver,Yes,Yes,,Rider B
+10313,C1039,BigBasket Now,Hyderabad,Snacks,6,871,696.8,20,49.0,25,40,4180.8,COD,None,No,No,2.0,Rider D
+10314,C1189,Blinkit,Pune,Household,5,76,57.0,25,49.0,15,22,228.0,Card,None,Yes,No,3.0,Rider C
+10315,C1232,Blinkit,Bengaluru,Fruits,7,374,261.8,30,59.0,10,24,1309.0,UPI,Gold,Yes,Yes,1.0,Rider B
+10316,C1135,Zepto,Chennai,Fruits,2,48,45.6,5,0.0,15,15,91.2,Card,Gold,No,No,1.0,Rider E
+10317,C1245,Instamart,Mumbai,Fruits,2,754,678.6,10,29.0,20,28,2035.8,COD,Gold,Yes,Yes,,Rider C
+10318,C1256,BigBasket Now,,Vegetables,1,309,216.3,30,19.0,20,25,1514.1,Wallet,Silver,Yes,Yes,3.0,Rider A
+10319,C1077,blinkit,Pune,Snacks,8,1007,1007.0,0,19.0,10,23,2014.0,Wallet,None,No,Yes,1.0,Rider B
+10320,C1132,BigBasket Now,Hyderabad,Beverages,6,481,481.0,0,59.0,25,27,481.0,UPI,Gold,Yes,Yes,5.0,Rider C
+10321,C1098,Zepto,Bengaluru,Dairy,5,473,354.75,25,19.0,25,39,1064.25,UPI,Gold,No,No,,Rider C
+10322,C1156,Blinkit,Hyderabad,Dairy,2,852,766.8,10,29.0,30,48,766.8,COD,None,Yes,Yes,2.0,Rider B
+10323,C1061,Instamart,Pune,Personal Care,8,985,985.0,0,49.0,15,20,4925.0,UPI,Gold,Yes,No,4.0,Rider D
+10324,C1230,Instamart,Delhi,Personal Care,7,176,158.4,10,59.0,30,32,950.4,Wallet,None,No,Yes,1.0,Rider D
+10325,C1019,Zepto,Chennai,Snacks,1,219,164.25,25,29.0,20,19,328.5,COD,Silver,Yes,Yes,4.0,Rider A
+10326,C1069,Blinkit,Pune,Fruits,6,144,144.0,0,19.0,20,36,1008.0,Card,Gold,Yes,No,4.0,Rider C
+10327,C1282,Blinkit,Chennai,Dairy,7,782,782.0,0,39.0,15,24,3128.0,Card,None,No,No,4.0,Rider B
+10328,C1054,Instamart,Bengaluru,Fruits,5,305,228.75,25,49.0,15,25,1830.0,Card,None,No,No,2.0,Rider C
+10329,C1000,,Hyderabad,Dairy,1,424,318.0,25,29.0,25,21,318.0,UPI,Silver,Yes,No,3.0,Rider C
+10330,C1201,BigBasket Now,Mumbai,Fruits,4,657,591.3,10,0.0,30,36,4139.1,Card,None,Yes,Yes,2.0,Rider C
+10331,C1223,Instamart,Bengaluru,Vegetables,6,558,446.4,20,59.0,20,27,446.4,COD,Gold,No,Yes,,Rider E
+10332,C1173,BigBasket Now,,Household,4,138,96.6,30,59.0,30,39,579.6,COD,Gold,Yes,Yes,1.0,Rider C
+10333,C1189,Blinkit,Hyderabad,Fruits,8,93,65.1,30,59.0,10,12,65.1,Card,Silver,No,No,4.0,Rider D
+10334,C1163,Instamart,Pune,Household,5,674,505.5,25,59.0,30,40,3033.0,UPI,None,Yes,No,4.0,Rider D
+10335,C1106,Instamart,Hyderabad,Dairy,2,64,48.0,25,59.0,15,16,48.0,Wallet,None,No,Yes,,Rider B
+10336,C1148,Instamart,Chennai,Vegetables,1,919,919.0,0,19.0,15,26,5514.0,Wallet,Gold,No,Yes,4.0,Rider B
+10337,C1095,BigBasket Now,Hyderabad,Household,1,710,639.0,10,59.0,20,31,1917.0,Wallet,None,Yes,Yes,1.0,Rider E
+10338,C1027,Blinkit,Bengaluru,Beverages,1,271,189.7,30,49.0,30,36,758.8,Wallet,Gold,Yes,Yes,2.0,Rider D
+10339,C1132,Instamart,Bengaluru,Snacks,4,102,86.7,15,49.0,15,29,693.6,UPI,Gold,Yes,No,,Rider B
+10340,C1264,Zepto,Bengaluru,Beverages,3,525,420.0,20,19.0,20,22,840.0,Wallet,None,Yes,No,4.0,Rider E
+10341,C1044,Blinkit,Hyderabad,Personal Care,7,147,124.95,15,19.0,10,19,749.7,Wallet,Gold,Yes,No,4.0,Rider B
+10342,C1182,,Mumbai,Dairy,3,447,424.65,5,59.0,15,23,1698.6,Wallet,Gold,Yes,Yes,5.0,Rider C
+10343,C1213,BigBasket Now,Delhi,Household,8,294,235.2,20,39.0,20,20,1176.0,Wallet,None,Yes,No,5.0,Rider E
+10344,C1037,Instamart,Pune,Snacks,2,336,268.8,20,39.0,15,17,537.6,COD,None,No,No,3.0,Rider D
+10345,C1003,Blinkit,Pune,Snacks,6,351,298.35,15,49.0,30,42,2088.45,Wallet,None,No,Yes,5.0,Rider A
+10346,C1204,Instamart,Hyderabad,Beverages,4,337,252.75,25,29.0,20,36,758.25,Wallet,None,Yes,No,1.0,Rider B
+10347,C1225,BigBasket Now,Mumbai,Dairy,1,94,75.2,20,29.0,20,30,451.2,Wallet,,No,No,4.0,Rider E
+10348,C1189,BigBasket Now,Chennai,Dairy,1,1197,837.9,30,29.0,20,15,5027.4,COD,Silver,Yes,No,1.0,Rider A
+10349,C1071,Zepto,Mumbai,Vegetables,4,435,413.25,5,0.0,10,28,2892.75,COD,Gold,Yes,Yes,5.0,Rider E
+10350,C1098,Blinkit,Pune,Snacks,7,223,156.1,30,39.0,15,23,312.2,Card,None,Yes,No,1.0,Rider A
+10351,C1011,Instamart,Pune,Personal Care,3,154,146.3,5,0.0,10,6,1170.4,Card,Gold,Yes,Yes,5.0,Rider C
+10352,C1166,BigBasket Now,Delhi,Dairy,8,445,400.5,10,19.0,10,18,3204.0,UPI,None,Yes,Yes,2.0,Rider B
+10353,C1271,Blinkit,Delhi,Beverages,1,758,568.5,25,39.0,10,19,4548.0,UPI,None,No,No,5.0,Rider B
+10354,C1072,BigBasket Now,,Personal Care,7,138,96.6,30,19.0,30,41,96.6,UPI,Silver,No,Yes,5.0,Rider D
+10355,C1082,Instamart,Delhi,Vegetables,5,877,789.3,10,,25,38,789.3,COD,Silver,No,No,2.0,Rider E
+10356,C1251,Blinkit,Bengaluru,Snacks,2,1158,984.3,15,49.0,20,17,6890.1,COD,None,No,Yes,1.0,Rider E
+10357,C1058,BigBasket Now,Delhi,Personal Care,5,313,313.0,0,0.0,25,28,2504.0,COD,Gold,Yes,No,,Rider C
+10358,C1189,Zepto,Hyderabad,Beverages,7,479,479.0,0,49.0,20,23,2395.0,Wallet,None,No,No,,Rider D
+10359,C1151,Blinkit,Hyderabad,Household,3,282,282.0,0,29.0,15,31,1974.0,Card,Silver,Yes,No,4.0,Rider A
+10360,C1237,BigBasket Now,Pune,Fruits,5,217,217.0,0,29.0,10,11,651.0,Card,None,Yes,Yes,5.0,Rider C
+10361,C1242,Zepto,Mumbai,Dairy,1,728,691.6,5,19.0,15,17,2074.8,COD,Gold,No,No,2.0,Rider A
+10362,C1030,BigBasket Now,Bengaluru,Personal Care,8,892,758.2,15,39.0,20,36,3032.8,COD,Gold,Yes,No,4.0,Rider B
+10363,C1137,Instamart,Chennai,Beverages,8,320,272.0,15,49.0,25,35,1632.0,Card,Silver,Yes,No,4.0,Rider A
+10364,C1169,BigBasket Now,Hyderabad,Beverages,3,327,277.95,15,29.0,30,34,277.95,COD,Gold,No,Yes,3.0,Rider D
+10365,C1101,Zepto,Mumbai,Vegetables,4,796,636.8,20,29.0,20,30,3184.0,Card,None,Yes,No,1.0,Rider B
+10366,C1259,Blinkit,Bengaluru,Personal Care,2,1172,1172.0,0,59.0,15,26,5860.0,UPI,Gold,Yes,No,1.0,Rider D
+10367,C1004,BigBasket Now,Mumbai,Personal Care,3,219,197.1,10,0.0,20,33,788.4,Card,Gold,Yes,Yes,1.0,Rider C
+10368,C1013,Blinkit,Hyderabad,Household,7,1095,985.5,10,0.0,25,32,4927.5,Card,Silver,No,Yes,1.0,Rider A
+10369,C1197,Zepto,Mumbai,Personal Care,6,915,732.0,20,49.0,30,45,2196.0,COD,Silver,No,Yes,2.0,Rider B
+10370,C1063,Zepto,Mumbai,Beverages,2,350,332.5,5,49.0,10,23,2660.0,Wallet,Silver,Yes,Yes,2.0,Rider D
+10371,C1182,Zepto,Chennai,Household,8,327,310.65,5,49.0,10,12,2174.55,Wallet,Silver,No,Yes,2.0,Rider A
+10372,C1092,Zepto,Chennai,Dairy,2,966,772.8,20,29.0,15,11,1545.6,COD,None,Yes,No,3.0,Rider A
+10373,C1079,Zepto,Mumbai,Snacks,6,1088,761.6,30,0.0,25,27,5331.2,Card,None,Yes,No,1.0,Rider B
+10374,C1171,Blinkit,Chennai,Beverages,4,159,143.1,10,49.0,30,26,1001.7,Card,Gold,Yes,No,3.0,Rider D
+10375,C1114,BigBasket Now,Chennai,fruit,7,227,215.65,5,0.0,25,20,1078.25,COD,Silver,Yes,No,,Rider C
+10376,C1220,Blinkit,Bengaluru,Fruits,2,495,495.0,0,0.0,25,33,1980.0,COD,None,Yes,No,5.0,Rider D
+10377,C1253,BigBasket Now,Mumbai,Fruits,8,558,530.1,5,19.0,10,26,1590.3,UPI,Silver,No,Yes,,Rider A
+10378,C1038,Blinkit,Mumbai,Vegetables,1,418,334.4,20,19.0,10,27,1672.0,COD,Gold,No,No,,Rider C
+10379,C1001,Zepto,Chennai,Beverages,7,371,315.35,15,19.0,25,25,946.05,COD,None,Yes,Yes,4.0,Rider A
+10380,C1181,Blinkit,Mumbai,Beverages,6,492,492.0,0,59.0,15,11,3936.0,Card,Silver,Yes,No,,Rider C
+10381,C1286,Zepto,Hyderabad,Dairy,3,298,268.2,10,49.0,20,31,268.2,Wallet,Silver,Yes,Yes,5.0,Rider C
+10382,C1264,BigBasket Now,Bengaluru,Personal Care,7,604,604.0,0,49.0,25,31,3020.0,COD,Silver,Yes,No,4.0,Rider C
+10383,C1156,BigBasket Now,Mumbai,Fruits,6,476,357.0,25,59.0,25,31,1428.0,Card,Silver,No,No,,Rider A
+10384,C1184,BigBasket Now,Chennai,Snacks,5,598,478.4,20,19.0,10,15,2870.4,COD,Silver,Yes,Yes,4.0,Rider A
+10385,C1022,Zepto,Mumbai,Household,7,796,756.2,5,39.0,20,30,3781.0,Wallet,Gold,No,Yes,,Rider B
+10386,C1125,Instamart,Chennai,Household,3,363,326.7,10,0.0,20,16,2286.9,Wallet,Gold,Yes,No,5.0,Rider A
+10387,C1203,Instamart,Chennai,Snacks,7,268,241.2,10,19.0,25,36,1688.4,UPI,None,No,Yes,3.0,Rider C
+10388,C1096,Zepto,Chennai,Beverages,4,299,224.25,25,,10,24,448.5,Card,None,Yes,Yes,4.0,Rider E
+10389,C1166,Blinkit,Hyderabad,Snacks,2,699,699.0,0,19.0,10,23,2796.0,Wallet,Silver,No,No,1.0,Rider B
+10390,C1216,blinkit,Mumbai,Beverages,4,277,249.3,10,39.0,25,27,249.3,COD,Silver,No,No,4.0,Rider A
+10391,C1116,Zepto,Hyderabad,Household,8,151,113.25,25,49.0,25,34,792.75,Card,Gold,No,No,1.0,Rider C
+10392,C1001,blinkit,Chennai,Fruits,3,985,689.5,30,29.0,15,32,689.5,Wallet,Silver,No,No,,Rider C
+10393,C1261,BigBasket Now,Chennai,Dairy,5,1096,986.4,10,49.0,15,13,3945.6,Card,Silver,No,No,5.0,Rider E
+10394,C1043,Instamart,Chennai,Dairy,6,1185,948.0,20,19.0,20,24,5688.0,UPI,Silver,Yes,No,1.0,Rider C
+10395,C1101,BigBasket Now,Mumbai,Snacks,5,495,420.75,15,19.0,10,10,1262.25,Wallet,Gold,No,Yes,1.0,Rider D
+10396,C1021,BigBasket Now,Hyderabad,Snacks,4,489,440.1,10,49.0,25,41,1320.3,UPI,None,Yes,Yes,3.0,Rider E
+10397,C1260,Instamart,Mumbai,Beverages,3,318,238.5,25,59.0,30,30,1908.0,UPI,Gold,No,No,3.0,Rider B
+10398,C1226,Instamart,Hyderabad,Vegetables,6,1158,926.4,20,39.0,30,32,7411.2,Card,Gold,Yes,Yes,5.0,Rider E
+10399,C1075,Instamart,Chennai,Vegetables,1,107,85.6,20,0.0,30,48,342.4,Wallet,Gold,No,Yes,2.0,Rider B
+10400,C1013,Zepto,Mumbai,Dairy,2,683,512.25,25,0.0,20,34,512.25,UPI,Gold,Yes,No,,Rider C
+10401,C1225,Instamart,Hyderabad,Fruits,1,655,491.25,25,59.0,10,11,2456.25,Card,Silver,Yes,No,5.0,Rider E
+10402,C1192,BigBasket Now,Bengaluru,Vegetables,5,333,283.05,15,29.0,30,39,1132.2,Card,None,No,No,1.0,Rider B
+10403,C1236,Instamart,Hyderabad,Snacks,1,234,222.3,5,49.0,25,31,1333.8,Wallet,Gold,Yes,No,4.0,Rider D
+10404,C1094,BigBasket Now,Hyderabad,Vegetables,4,360,288.0,20,59.0,15,23,1152.0,COD,None,Yes,No,3.0,Rider C
+10405,C1296,Zepto,Mumbai,Snacks,1,288,244.8,15,29.0,20,27,1224.0,Card,None,Yes,Yes,3.0,Rider A
+10406,C1223,Zepto,Chennai,Vegetables,7,931,651.7,30,19.0,25,33,1955.1,COD,Gold,No,No,3.0,Rider B
+10407,C1082,BigBasket Now,Hyderabad,Beverages,4,244,231.8,5,39.0,30,31,1854.4,UPI,Gold,Yes,No,1.0,Rider E
+10408,C1156,Zepto,Hyderabad,Vegetables,6,248,198.4,20,29.0,25,26,396.8,Wallet,Gold,Yes,No,2.0,Rider C
+10409,C1293,Blinkit,Bengaluru,Vegetables,4,1167,816.9,30,0.0,10,6,4084.5,COD,Gold,No,No,2.0,Rider C
+10410,C1190,Zepto,Pune,Snacks,2,40,36.0,10,19.0,25,27,36.0,UPI,Silver,Yes,No,,Rider D
+10411,C1018,Instamart,Delhi,Snacks,7,87,82.65,5,19.0,15,21,413.25,Wallet,Gold,No,No,5.0,Rider E
+10412,C1208,Zepto,Pune,fruit,4,1014,912.6,10,39.0,15,23,3650.4,UPI,,No,No,1.0,Rider A
+10413,C1080,Zepto,Delhi,Household,3,570,427.5,25,29.0,25,40,2992.5,Card,Gold,No,Yes,,Rider C
+10414,C1166,Zepto,Mumbai,Fruits,3,84,71.4,15,0.0,25,43,142.8,COD,Gold,No,No,5.0,Rider B
+10415,C1012,Instamart,Pune,Vegetables,7,276,276.0,0,59.0,10,14,1932.0,UPI,Gold,No,No,4.0,Rider D
+10416,C1194,Zepto,Mumbai,Snacks,7,824,824.0,0,39.0,25,27,4120.0,UPI,None,Yes,No,3.0,Rider B
+10417,C1141,Instamart,Bengaluru,Beverages,3,354,300.9,15,39.0,25,39,902.7,COD,Gold,Yes,Yes,4.0,Rider A
+10418,C1155,BigBasket Now,Pune,Household,2,109,87.2,20,0.0,25,41,174.4,Wallet,Silver,Yes,No,3.0,Rider B
+10419,C1077,Zepto,Pune,Fruits,2,1009,1009.0,0,49.0,10,5,4036.0,UPI,Gold,No,No,4.0,Rider C
+10420,C1049,BigBasket Now,Mumbai,Beverages,1,533,479.7,10,0.0,10,23,959.4,Wallet,Gold,Yes,No,,Rider D
+10421,C1010,Instamart,Delhi,Beverages,6,632,600.4,5,29.0,30,38,3002.0,UPI,Gold,No,No,2.0,Rider C
+10422,C1149,Instamart,Mumbai,Vegetables,7,275,247.5,10,49.0,30,41,1237.5,Card,Silver,No,No,5.0,Rider B
+10423,C1007,Blinkit,Mumbai,Household,3,316,252.8,20,29.0,15,27,1264.0,Card,Silver,No,Yes,,Rider A
+10424,C1243,BigBasket Now,Chennai,Vegetables,7,655,491.25,25,,10,10,3438.75,Card,Silver,No,No,,Rider E
+10425,C1199,Zepto,Hyderabad,Household,6,858,686.4,20,49.0,25,26,5491.2,UPI,Gold,Yes,Yes,,Rider E
+10426,C1235,BigBasket Now,Mumbai,Dairy,6,393,275.1,30,19.0,20,23,825.3,Card,Gold,Yes,Yes,4.0,Rider C
+10427,C1282,Zepto,Mumbai,Household,5,249,199.2,20,29.0,15,14,398.4,COD,Gold,No,Yes,4.0,Rider B
+10428,C1192,Blinkit,Chennai,Vegetables,7,818,695.3,15,29.0,10,19,2781.2,UPI,None,Yes,No,,Rider D
+10429,C1146,Zepto,Chennai,Dairy,1,1072,1072.0,0,0.0,15,24,1072.0,Wallet,None,Yes,No,2.0,Rider E
+10430,C1082,Zepto,Chennai,Personal Care,6,987,888.3,10,49.0,20,27,6218.1,Card,Silver,No,Yes,5.0,Rider C
+10431,C1130,Instamart, Chennai ,Dairy,7,1078,1078.0,0,49.0,10,15,8624.0,Wallet,Silver,No,No,1.0,Rider E
+10432,C1065,Zepto,Bengaluru,Vegetables,8,398,278.6,30,,10,12,1671.6,Card,Silver,No,No,1.0,Rider B
+10433,C1034,BigBasket Now,Chennai,Fruits,8,158,150.1,5,59.0,25,22,1050.7,UPI,Silver,Yes,Yes,1.0,Rider E
+10434,C1251,,Delhi,Fruits,1,881,836.95,5,29.0,20,24,836.95,Wallet,Gold,Yes,No,1.0,Rider A
+10435,C1250,BigBasket Now,Mumbai,Household,2,232,162.4,30,49.0,10,18,1136.8,COD,Gold,No,No,4.0,Rider E
+10436,C1192,Blinkit,Delhi,Fruits,7,174,147.9,15,59.0,30,41,295.8,Wallet,None,No,Yes,1.0,Rider E
+10437,C1215,Instamart,Pune,Fruits,8,1001,700.7,30,19.0,20,16,4204.2,Wallet,Silver,Yes,No,,Rider E
+10438,C1120,BigBasket Now,Hyderabad,Household,1,147,132.3,10,39.0,20,32,1058.4,Card,None,No,No,,Rider E
+10439,C1007,Zepto,Mumbai,Personal Care,1,132,99.0,25,19.0,20,36,99.0,Card,Silver,Yes,No,2.0,Rider E
+10440,C1051,Zepto,Delhi,Beverages,7,706,564.8,20,29.0,30,29,1694.4,Wallet,Gold,No,No,1.0,Rider E
+10441,C1062,Zepto,Chennai,Snacks,2,594,415.8,30,29.0,25,21,2494.8,UPI,Gold,No,Yes,3.0,Rider E
+10442,C1259,Zepto,Delhi,Household,2,122,97.6,20,19.0,10,19,292.8,COD,Gold,Yes,Yes,3.0,Rider A
+10443,C1267,Instamart,Bengaluru,Vegetables,6,412,288.4,30,59.0,25,40,2018.8,Card,None,No,No,3.0,Rider E
+10444,C1190,,Bengaluru,Personal Care,1,1151,1093.45,5,59.0,15,29,2186.9,Card,Silver,Yes,No,3.0,Rider A
+10445,C1081,BigBasket Now,Chennai,Fruits,6,617,431.9,30,39.0,25,37,1295.7,Card,Gold,Yes,Yes,1.0,Rider D
+10446,C1026,BigBasket Now,Pune,Snacks,2,210,199.5,5,0.0,15,24,1396.5,COD,Gold,Yes,No,,Rider C
+10447,C1065,BigBasket Now,Chennai,Dairy,7,969,775.2,20,29.0,20,37,3876.0,UPI,Gold,No,No,4.0,Rider C
+10448,C1194,Blinkit,,Snacks,2,424,296.8,30,49.0,25,29,2374.4,Wallet,Silver,No,No,4.0,Rider A
+10449,C1221,Zepto,Chennai,Snacks,7,514,411.2,20,29.0,15,26,2878.4,UPI,None,Yes,No,,Rider B
+10450,C1147,Instamart,Delhi,Household,8,670,569.5,15,29.0,30,29,4556.0,Card,Gold,No,Yes,4.0,Rider A
+10451,C1191,Zepto,Delhi,Household,1,602,421.4,30,39.0,30,40,2949.8,Card,None,Yes,Yes,,Rider B
+10452,C1190,BigBasket Now,Pune,Snacks,6,675,573.75,15,39.0,15,23,1147.5,Card,Gold,No,Yes,5.0,Rider D
+10453,C1214,Zepto,Bengaluru,Personal Care,7,887,665.25,25,29.0,20,33,3326.25,Wallet,Silver,No,No,1.0,Rider D
+10454,C1027,Zepto,Chennai,Dairy,5,1193,954.4,20,0.0,15,31,3817.6,Card,Silver,No,No,,Rider D
+10455,C1033,Zepto,Pune,Vegetables,2,1131,1131.0,0,39.0,10,28,3393.0,COD,Silver,Yes,Yes,5.0,Rider C
+10456,C1040,BigBasket Now,Mumbai,Fruits,7,916,870.2,5,59.0,10,6,4351.0,COD,Silver,Yes,No,2.0,Rider D
+10457,C1177,Zepto,Hyderabad,Personal Care,7,411,390.45,5,49.0,25,42,780.9,Card,Silver,No,No,5.0,Rider B
+10458,C1118,Instamart,Chennai,Fruits,8,245,196.0,20,59.0,20,27,1372.0,COD,Silver,No,Yes,5.0,Rider B
+10459,C1244,blinkit,Pune,Snacks,2,651,618.45,5,0.0,20,32,618.45,Wallet,None,No,No,,Rider D
+10460,C1018,BigBasket Now,Bengaluru,Dairy,8,1167,933.6,20,0.0,15,25,4668.0,COD,None,Yes,No,,Rider E
+10461,C1094,Zepto,Mumbai,Snacks,6,461,414.9,10,0.0,30,40,829.8,COD,Silver,Yes,Yes,2.0,Rider D
+10462,C1075,Blinkit,Mumbai,Dairy,7,624,624.0,0,29.0,20,33,4992.0,COD,None,No,No,,Rider A
+10463,C1101,BigBasket Now,Mumbai,Dairy,1,495,445.5,10,59.0,15,20,2227.5,COD,Gold,No,Yes,2.0,Rider C
+10464,C1061,Zepto,Delhi,Dairy,2,278,208.5,25,49.0,20,25,1668.0,Wallet,Silver,No,Yes,3.0,Rider D
+10465,C1255,Instamart,Bengaluru,Vegetables,5,576,460.8,20,49.0,15,25,921.6,Card,Gold,Yes,Yes,2.0,Rider E
+10466,C1253,Instamart,Delhi,Dairy,1,527,500.65,5,19.0,30,46,2002.6,Wallet,None,No,Yes,1.0,Rider C
+10467,C1060,,Bengaluru,Beverages,3,124,124.0,0,59.0,20,26,248.0,Card,Silver,Yes,No,2.0,Rider E
+10468,C1173,BigBasket Now,,Household,6,724,615.4,15,0.0,10,20,4923.2,Wallet,Gold,Yes,Yes,,Rider D
+10469,C1076,Blinkit,Bengaluru,Household,6,499,399.2,20,29.0,10,15,798.4,Wallet,Gold,Yes,No,,Rider D
+10470,C1154,Blinkit,Bengaluru,Snacks,3,987,838.95,15,0.0,20,25,3355.8,COD,None,No,Yes,,Rider A
+10471,C1064,Blinkit,Hyderabad,Snacks,8,208,166.4,20,49.0,10,24,832.0,COD,Gold,No,No,5.0,Rider A
+10472,C1107,Zepto,Bengaluru,Fruits,5,594,564.3,5,19.0,25,26,4514.4,Wallet,Silver,Yes,No,4.0,Rider A
+10473,C1021,BigBasket Now,Pune,fruit,8,1076,1076.0,0,,25,38,3228.0,Card,None,No,Yes,5.0,Rider D
+10474,C1059,BigBasket Now,Pune,Dairy,2,609,548.1,10,49.0,10,12,1644.3,Card,Gold,Yes,Yes,3.0,Rider B
+10475,C1214,Zepto,Chennai,Fruits,8,681,646.95,5,39.0,10,6,2587.8,Wallet,Silver,Yes,Yes,5.0,Rider E
+10476,C1021,Instamart,Hyderabad,Household,4,989,692.3,30,29.0,25,25,1384.6,Card,Silver,Yes,Yes,,Rider C
+10477,C1287,Zepto,Pune,Personal Care,1,1105,773.5,30,59.0,30,43,3867.5,UPI,Silver,No,Yes,2.0,Rider C
+10478,C1221,Zepto,Hyderabad,Beverages,6,912,684.0,25,49.0,25,22,4788.0,Card,Silver,No,No,3.0,Rider E
+10479,C1058,BigBasket Now,Delhi,Snacks,3,225,191.25,15,49.0,10,15,382.5,COD,Gold,Yes,Yes,2.0,Rider A
+10480,C1165,Blinkit,Bengaluru,Household,4,625,437.5,30,39.0,25,41,2187.5,Wallet,Silver,No,Yes,2.0,Rider B
+10481,C1235,Zepto,Chennai,Snacks,4,788,788.0,0,0.0,20,33,6304.0,Wallet,None,Yes,Yes,,Rider E
+10482,C1257,Blinkit,Hyderabad,Vegetables,8,56,47.6,15,29.0,25,27,190.4,COD,Gold,No,Yes,,Rider E
+10483,C1009,Blinkit,Mumbai,Snacks,3,717,537.75,25,59.0,10,15,3226.5,UPI,Silver,Yes,No,5.0,Rider B
+10484,C1076,Instamart,Mumbai,Beverages,5,390,273.0,30,39.0,20,32,819.0,COD,Silver,No,Yes,5.0,Rider B
+10485,C1170,Zepto,Delhi,Household,5,433,368.05,15,39.0,15,16,2944.4,Wallet,Gold,No,Yes,4.0,Rider C
+10486,C1105,BigBasket Now,Mumbai,Household,3,401,320.8,20,19.0,20,36,1924.8,Wallet,None,Yes,Yes,2.0,Rider C
+10487,C1221,Zepto,Chennai,Dairy,2,1152,1036.8,10,19.0,10,26,2073.6,COD,None,No,No,5.0,Rider B
+10488,C1027,Blinkit,Hyderabad,Fruits,1,636,445.2,30,19.0,20,26,2226.0,UPI,,No,Yes,2.0,Rider D
+10489,C1023,Instamart,Mumbai,Household,2,1154,807.8,30,39.0,20,29,4846.8,COD,None,Yes,Yes,5.0,Rider C
+10490,C1044,Zepto,Chennai,Fruits,7,617,555.3,10,29.0,20,34,1665.9,Wallet,Silver,No,Yes,,Rider B
+10491,C1295,Blinkit,Hyderabad,Vegetables,1,1097,877.6,20,19.0,20,20,5265.6,Wallet,Gold,No,No,2.0,Rider A
+10492,C1162,blinkit,Chennai,Beverages,1,802,561.4,30,19.0,10,5,1684.2,COD,Silver,Yes,Yes,4.0,Rider B
+10493,C1089,Zepto,Delhi,Vegetables,8,1151,863.25,25,39.0,20,25,2589.75,Card,Silver,No,Yes,5.0,Rider C
+10494,C1044,Instamart,Hyderabad,Snacks,2,1170,1111.5,5,49.0,25,31,2223.0,COD,None,Yes,Yes,,Rider C
+10495,C1051,Zepto,Pune,Household,7,874,874.0,0,29.0,30,28,5244.0,UPI,Gold,No,Yes,3.0,Rider C
+10496,C1235,Blinkit,Mumbai,Dairy,6,743,557.25,25,59.0,15,24,1114.5,COD,Gold,No,No,,Rider C
+10497,C1230,blinkit,,Fruits,5,1174,939.2,20,59.0,30,36,1878.4,Card,None,No,Yes,1.0,Rider E
+10498,C1210,Blinkit,,Vegetables,2,619,495.2,20,59.0,30,30,1485.6,Wallet,None,Yes,Yes,1.0,Rider B
+10499,C1193,Zepto,Bengaluru,Household,7,61,45.75,25,39.0,15,14,228.75,UPI,Gold,No,No,5.0,Rider D
+10500,C1230,Zepto,Hyderabad,Beverages,6,111,99.9,10,59.0,25,24,99.9,Wallet,None,Yes,Yes,3.0,Rider D
+10501,C1252,Blinkit,Chennai,Snacks,2,854,768.6,10,0.0,30,25,5380.2,COD,,No,No,,Rider A
+10502,C1296,Instamart,Hyderabad,Beverages,6,950,760.0,20,39.0,30,39,3040.0,Wallet,Gold,No,Yes,5.0,Rider C
+10503,C1106,Zepto,Bengaluru,Vegetables,4,298,238.4,20,29.0,25,41,238.4,Wallet,Silver,No,Yes,1.0,Rider E
+10504,C1153,Zepto,Delhi,Snacks,8,897,807.3,10,29.0,30,37,5651.1,UPI,Gold,No,No,2.0,Rider E
+10505,C1118,Instamart,Mumbai,Personal Care,2,96,67.2,30,29.0,25,25,67.2,COD,Silver,No,Yes,3.0,Rider C
+10506,C1090,Blinkit,Hyderabad,Household,2,714,499.8,30,39.0,20,19,2998.8,Card,None,Yes,Yes,3.0,Rider B
+10507,C1129,Blinkit,Chennai,Beverages,5,877,701.6,20,59.0,20,25,4209.6,UPI,None,No,No,1.0,Rider C
+10508,C1008,Instamart,Chennai,Beverages,1,892,892.0,0,19.0,20,23,7136.0,UPI,None,No,Yes,5.0,Rider C
+10509,C1234,BigBasket Now, Chennai ,Vegetables,5,753,753.0,0,49.0,15,12,4518.0,Wallet,,No,No,5.0,Rider E
+10510,C1274,Blinkit,Bengaluru,Household,8,447,447.0,0,29.0,10,22,1341.0,Wallet,Silver,No,No,2.0,Rider A
+10511,C1065,Instamart,,Household,3,229,160.3,30,59.0,30,29,160.3,UPI,None,No,No,1.0,Rider A
+10512,C1054,BigBasket Now,Bengaluru,Fruits,4,923,830.7,10,0.0,15,17,3322.8,Card,Gold,No,Yes,3.0,Rider D
+10513,C1241,Zepto,Mumbai,Snacks,8,686,583.1,15,19.0,15,22,1166.2,UPI,Silver,No,Yes,1.0,Rider B
+10514,C1211,BigBasket Now,Delhi,Snacks,3,798,558.6,30,49.0,15,12,3910.2,Wallet,Gold,No,No,5.0,Rider A
+10515,C1114,Zepto,Bengaluru,Snacks,7,1180,1121.0,5,49.0,20,26,8968.0,Wallet,None,Yes,Yes,2.0,Rider C
+10516,C1060,BigBasket Now,Bengaluru,Personal Care,8,718,718.0,0,59.0,10,14,5744.0,UPI,Silver,Yes,Yes,5.0,Rider D
+10517,C1064,Zepto,Mumbai,Snacks,6,424,424.0,0,19.0,30,45,2544.0,Card,None,No,Yes,1.0,Rider B
+10518,C1018,Instamart,Chennai,Beverages,2,696,522.0,25,0.0,30,26,3654.0,Wallet,None,No,No,1.0,Rider E
+10519,C1080,BigBasket Now,Mumbai,Beverages,5,964,915.8,5,49.0,30,26,7326.4,UPI,Silver,No,No,1.0,Rider A
+10520,C1213,Blinkit,Pune,Snacks,2,188,159.8,15,0.0,10,21,799.0,UPI,Silver,Yes,Yes,4.0,Rider B
+10521,C1000,BigBasket Now,Pune,Household,3,286,214.5,25,49.0,20,34,214.5,UPI,Gold,Yes,Yes,2.0,Rider C
+10522,C1222,Zepto,Hyderabad,Household,8,739,628.15,15,19.0,10,16,3140.75,UPI,Gold,No,No,2.0,Rider D
+10523,C1198,Zepto, Chennai ,Beverages,7,515,463.5,10,0.0,10,15,927.0,UPI,Gold,No,Yes,4.0,Rider A
+10524,C1105,Blinkit,Pune,Vegetables,4,219,164.25,25,49.0,30,26,1149.75,Wallet,Gold,No,No,2.0,Rider C
+10525,C1260,BigBasket Now,Chennai,Household,5,976,927.2,5,,25,28,3708.8,Wallet,Silver,No,Yes,,Rider E
+10526,C1067,Blinkit,Bengaluru,Snacks,3,299,299.0,0,0.0,10,12,1495.0,COD,Silver,Yes,No,1.0,Rider C
+10527,C1212,Instamart,Mumbai,Dairy,6,539,377.3,30,19.0,20,19,377.3,COD,None,No,Yes,,Rider B
+10528,C1105,BigBasket Now,Bengaluru,Fruits,8,204,173.4,15,49.0,25,41,346.8,UPI,Silver,Yes,Yes,,Rider E
+10529,C1008,Zepto,Hyderabad,Household,5,814,651.2,20,0.0,10,26,1302.4,Card,Silver,No,Yes,2.0,Rider E
+10530,C1207,Blinkit,Pune,Snacks,4,821,738.9,10,29.0,15,18,5172.3,Wallet,Gold,No,Yes,2.0,Rider B
+10531,C1107,BigBasket Now,Hyderabad,Vegetables,4,609,578.55,5,19.0,15,26,1735.65,Card,Silver,Yes,No,3.0,Rider C
+10532,C1271,Blinkit,Chennai,Personal Care,2,219,208.05,5,49.0,10,23,416.1,UPI,Silver,Yes,No,5.0,Rider C
+10533,C1216,Zepto,Pune,Beverages,1,806,604.5,25,29.0,25,38,2418.0,Card,Gold,No,No,2.0,Rider D
+10534,C1218,BigBasket Now,Pune,Dairy,5,1001,950.95,5,39.0,10,20,4754.75,Wallet,None,Yes,No,4.0,Rider C
+10535,C1272,Instamart,Mumbai,Fruits,8,1065,1065.0,0,39.0,25,25,2130.0,UPI,Gold,No,No,3.0,Rider D
+10536,C1198,Zepto,Delhi,Fruits,2,1064,957.6,10,29.0,30,35,4788.0,Card,Silver,No,No,,Rider D
+10537,C1067,Zepto,Mumbai,Vegetables,7,1050,840.0,20,29.0,10,9,5880.0,Card,None,No,Yes,,Rider E
+10538,C1073,Blinkit,Pune,Dairy,6,522,469.8,10,39.0,10,28,3758.4,COD,Silver,No,Yes,3.0,Rider E
+10539,C1091,BigBasket Now,Pune,Beverages,2,516,490.2,5,19.0,25,28,3921.6,UPI,Silver,No,Yes,1.0,Rider A
+10540,C1040,BigBasket Now,Mumbai,Dairy,3,771,655.35,15,39.0,15,25,1966.05,UPI,Gold,Yes,No,5.0,Rider B
+10541,C1003,Blinkit,Delhi,Dairy,4,499,424.15,15,49.0,20,29,2120.75,UPI,Silver,Yes,No,,Rider B
+10542,C1262,BigBasket Now,Bengaluru,Snacks,1,531,398.25,25,19.0,15,29,1593.0,COD,Silver,No,Yes,3.0,Rider D
+10543,C1230,Zepto,Mumbai,Household,2,181,171.95,5,19.0,25,28,687.8,Card,Silver,Yes,Yes,3.0,Rider D
+10544,C1095,,Mumbai,Snacks,1,703,562.4,20,49.0,25,25,4499.2,UPI,Gold,Yes,No,2.0,Rider B
+10545,C1165,Blinkit,Pune,Fruits,7,254,241.3,5,49.0,15,11,1447.8,UPI,None,Yes,Yes,,Rider E
+10546,C1228,Instamart,Chennai,Household,6,240,204.0,15,59.0,30,48,408.0,UPI,Silver,Yes,No,1.0,Rider B
+10547,C1170,Instamart,Chennai,Personal Care,8,579,463.2,20,19.0,30,26,3705.6,UPI,Gold,Yes,Yes,1.0,Rider E
+10548,C1039,Zepto,Mumbai,Beverages,5,314,251.2,20,19.0,10,5,502.4,UPI,Silver,Yes,Yes,2.0,Rider E
+10549,C1264,Blinkit,Chennai,Fruits,4,440,352.0,20,19.0,25,36,352.0,UPI,None,Yes,No,3.0,Rider D
+10550,C1016,Zepto,,Beverages,8,1159,985.15,15,0.0,20,30,5910.9,Wallet,Silver,No,No,2.0,Rider A
+10551,C1076,Blinkit,Hyderabad,Dairy,6,698,558.4,20,49.0,25,20,4467.2,Wallet,None,Yes,No,1.0,Rider C
+10552,C1114,BigBasket Now, Chennai ,Vegetables,6,307,245.6,20,29.0,10,22,1228.0,Card,Silver,No,Yes,3.0,Rider A
+10553,C1226,Instamart,Pune,Dairy,3,90,90.0,0,39.0,20,25,540.0,Card,Gold,No,Yes,1.0,Rider B
+10554,C1293,BigBasket Now,Delhi,Beverages,7,1097,987.3,10,39.0,10,14,987.3,COD,Silver,Yes,No,,Rider D
+10555,C1101,Blinkit,Hyderabad,Fruits,8,845,845.0,0,29.0,20,26,3380.0,Card,Gold,No,Yes,3.0,Rider D
+10556,C1022,Blinkit,Delhi,Snacks,1,248,186.0,25,49.0,30,41,558.0,UPI,Silver,Yes,Yes,5.0,Rider B
+10557,C1237,BigBasket Now,Mumbai,Personal Care,3,434,325.5,25,19.0,10,13,1953.0,UPI,Gold,Yes,No,1.0,Rider E
+10558,C1237,,Pune,Household,4,711,675.45,5,19.0,20,19,1350.9,UPI,None,No,No,4.0,Rider A
+10559,C1073,BigBasket Now,Hyderabad,Dairy,5,697,522.75,25,59.0,15,27,2613.75,Card,Silver,No,No,3.0,Rider E
+10560,C1247,Instamart,Pune,Snacks,2,507,481.65,5,29.0,15,19,3853.2,UPI,Silver,No,Yes,1.0,Rider A
+10561,C1219,BigBasket Now,Pune,Vegetables,3,1035,983.25,5,0.0,20,16,7866.0,Card,None,No,No,1.0,Rider E
+10562,C1065,BigBasket Now,Hyderabad,Personal Care,1,1086,760.2,30,59.0,25,35,4561.2,Wallet,Gold,No,Yes,,Rider C
+10563,C1224,Blinkit,Pune,Vegetables,5,364,309.4,15,29.0,15,19,1237.6,COD,Gold,No,No,3.0,Rider E
+10564,C1136,BigBasket Now,Delhi,Beverages,8,197,137.9,30,0.0,30,46,137.9,COD,Gold,Yes,Yes,4.0,Rider C
+10565,C1011,Instamart,Mumbai,Beverages,4,496,347.2,30,0.0,10,15,694.4,COD,Silver,Yes,Yes,4.0,Rider B
+10566,C1125,Blinkit,Pune,Personal Care,4,785,706.5,10,39.0,10,28,4945.5,COD,None,No,No,5.0,Rider C
+10567,C1297,Blinkit,Delhi,Fruits,4,472,472.0,0,59.0,30,45,2832.0,Wallet,Gold,Yes,Yes,1.0,Rider C
+10568,C1066,Instamart,Bengaluru,Dairy,4,1189,951.2,20,49.0,30,30,7609.6,Card,Silver,Yes,No,4.0,Rider B
+10569,C1026,Blinkit,Delhi,Dairy,2,635,539.75,15,49.0,30,26,1619.25,COD,Silver,No,Yes,5.0,Rider B
+10570,C1141,BigBasket Now,Bengaluru,Vegetables,3,940,752.0,20,49.0,25,37,1504.0,Wallet,Silver,Yes,Yes,4.0,Rider B
+10571,C1133,BigBasket Now,Chennai,Household,8,132,99.0,25,39.0,30,29,693.0,COD,Silver,No,Yes,5.0,Rider B
+10572,C1099,Instamart,Chennai,Dairy,6,311,217.7,30,19.0,30,36,1088.5,Wallet,Gold,No,Yes,3.0,Rider D
+10573,C1114,BigBasket Now,Hyderabad,Beverages,6,883,662.25,25,,20,24,4635.75,Wallet,Gold,No,Yes,4.0,Rider B
+10574,C1174,Zepto,Bengaluru,Household,4,755,717.25,5,19.0,30,30,5738.0,Card,None,No,Yes,1.0,Rider D
+10575,C1278,BigBasket Now,Pune,Fruits,6,917,641.9,30,39.0,30,46,3851.4,UPI,None,Yes,Yes,4.0,Rider A
+10576,C1129,Blinkit,Bengaluru,Household,3,804,723.6,10,0.0,20,31,2894.4,COD,Silver,Yes,No,1.0,Rider B
+10577,C1137,Instamart,Delhi,Vegetables,7,433,389.7,10,49.0,20,34,1169.1,Wallet,Silver,Yes,Yes,3.0,Rider D
+10578,C1141,Blinkit,Chennai,Vegetables,3,642,449.4,30,49.0,30,45,2696.4,UPI,Gold,Yes,No,5.0,Rider B
+10579,C1099,Blinkit,Bengaluru,Vegetables,3,811,770.45,5,0.0,30,34,1540.9,Wallet,Silver,Yes,No,3.0,Rider D
+10580,C1258,Blinkit,Delhi,Personal Care,6,1180,1180.0,0,0.0,25,42,5900.0,Card,None,No,Yes,5.0,Rider B
+10581,C1083,Blinkit,Delhi,Fruits,3,1146,1146.0,0,19.0,15,33,2292.0,Wallet,None,Yes,Yes,4.0,Rider D
+10582,C1110,Blinkit,Delhi,Household,2,126,119.7,5,49.0,25,22,957.6,Card,Gold,No,Yes,4.0,Rider D
+10583,C1151,BigBasket Now,Pune,Fruits,7,209,156.75,25,29.0,25,38,627.0,COD,Silver,Yes,Yes,2.0,Rider C
+10584,C1248,BigBasket Now,Delhi,Dairy,7,1127,788.9,30,59.0,10,26,3155.6,UPI,Gold,Yes,No,5.0,Rider A
+10585,C1018,Zepto,Chennai,Vegetables,6,1125,787.5,30,59.0,15,12,5512.5,UPI,None,No,Yes,5.0,Rider D
+10586,C1057,BigBasket Now,Pune,Household,2,986,936.7,5,49.0,25,25,7493.6,COD,Silver,Yes,Yes,5.0,Rider E
+10587,C1245,Zepto,Delhi,Vegetables,4,415,373.5,10,29.0,25,26,1494.0,Wallet,Silver,No,No,4.0,Rider A
+10588,C1222,BigBasket Now,Mumbai,Household,8,899,764.15,15,0.0,15,25,3056.6,COD,Silver,No,Yes,2.0,Rider A
+10589,C1046,Zepto,Chennai,Personal Care,5,228,216.6,5,49.0,20,19,1299.6,Card,None,No,Yes,4.0,Rider E
+10590,C1057,Blinkit,Pune,Beverages,2,517,361.9,30,49.0,30,28,2895.2,COD,None,Yes,Yes,4.0,Rider B
+10591,C1271,BigBasket Now,Chennai,Dairy,8,214,160.5,25,49.0,15,12,160.5,COD,Gold,No,No,4.0,Rider A
+10592,C1244,Zepto,Chennai,Dairy,6,1126,844.5,25,49.0,15,15,844.5,Card,Gold,Yes,Yes,,Rider A
+10593,C1063,Zepto,Mumbai,Dairy,2,370,351.5,5,49.0,20,15,2812.0,Card,Silver,No,Yes,4.0,Rider E
+10594,C1120,Zepto,Bengaluru,Vegetables,6,188,178.6,5,0.0,25,22,714.4,Card,Silver,Yes,No,1.0,Rider C
+10595,C1259,Instamart,Pune,Vegetables,7,781,781.0,0,49.0,20,24,3905.0,Card,Gold,No,Yes,2.0,Rider E
+10596,C1003,BigBasket Now,Hyderabad,Snacks,2,586,439.5,25,49.0,10,15,1318.5,COD,None,No,No,2.0,Rider B
+10597,C1001,Instamart,Mumbai,Beverages,1,514,436.9,15,59.0,30,36,873.8,Wallet,Silver,No,No,1.0,Rider B
+10598,C1056,BigBasket Now,Chennai,Fruits,5,1059,1006.05,5,19.0,20,23,1006.05,Card,Silver,No,No,5.0,Rider B
+10599,C1255,Zepto,Mumbai,Snacks,3,1117,837.75,25,29.0,25,39,4188.75,UPI,None,Yes,Yes,,Rider C
+10600,C1031,Blinkit,Mumbai,Dairy,8,934,887.3,5,19.0,20,29,887.3,COD,None,No,Yes,3.0,Rider E
+10601,C1278,Instamart,Pune,Fruits,2,930,837.0,10,0.0,30,39,837.0,COD,Silver,Yes,Yes,2.0,Rider E
+10602,C1038,Blinkit,Chennai,Beverages,4,432,302.4,30,59.0,20,31,1814.4,Card,,No,No,5.0,Rider B
+10603,C1040,Blinkit,Hyderabad,Fruits,2,315,315.0,0,39.0,15,25,945.0,COD,None,Yes,No,,Rider C
+10604,C1274,BigBasket Now,Hyderabad,Beverages,5,1150,920.0,20,29.0,10,24,4600.0,Wallet,Silver,Yes,Yes,,Rider E
+10605,C1188,Instamart,Pune,Household,2,1076,753.2,30,0.0,10,14,6025.6,COD,None,No,No,4.0,Rider B
+10606,C1227,Instamart,Mumbai,Dairy,3,1141,798.7,30,59.0,30,46,1597.4,UPI,Gold,Yes,No,1.0,Rider E
+10607,C1034,Zepto,Bengaluru,Beverages,1,695,625.5,10,49.0,20,30,3127.5,Wallet,None,Yes,Yes,5.0,Rider C
+10608,C1052,Blinkit,Hyderabad,Household,8,226,214.7,5,19.0,10,27,1073.5,UPI,Silver,Yes,No,1.0,Rider A
+10609,C1023,Blinkit,Delhi,Personal Care,3,786,746.7,5,59.0,15,32,3733.5,Wallet,Gold,No,No,2.0,Rider D
+10610,C1263,Zepto,Hyderabad,Beverages,8,392,392.0,0,59.0,20,34,1960.0,COD,Gold,Yes,No,1.0,Rider D
+10611,C1270,Blinkit,Delhi,Beverages,8,1106,829.5,25,0.0,15,16,829.5,UPI,None,No,Yes,,Rider C
+10612,C1110,BigBasket Now,Mumbai,Snacks,4,880,792.0,10,59.0,20,26,3960.0,COD,None,No,Yes,,Rider C
+10613,C1073,BigBasket Now,Hyderabad,Snacks,8,808,646.4,20,,10,15,3878.4,Wallet,None,No,No,5.0,Rider C
+10614,C1028,Zepto,Mumbai,Dairy,3,400,360.0,10,59.0,15,10,2880.0,Wallet,Gold,No,Yes,2.0,Rider C
+10615,C1107,Instamart,Mumbai,Vegetables,7,54,48.6,10,19.0,20,15,48.6,UPI,None,Yes,Yes,1.0,Rider C
+10616,C1039,Zepto,Pune,fruit,3,907,680.25,25,19.0,15,29,2721.0,Card,Gold,Yes,Yes,2.0,Rider B
+10617,C1078,Blinkit,Bengaluru,Personal Care,3,396,396.0,0,,10,14,2772.0,COD,Gold,Yes,No,3.0,Rider A
+10618,C1064,Zepto,Delhi,Dairy,4,117,117.0,0,59.0,30,48,234.0,Card,Gold,Yes,No,,Rider C
+10619,C1012,Zepto,Mumbai,Fruits,8,364,254.8,30,59.0,30,47,1528.8,Wallet,Gold,Yes,No,5.0,Rider B
+10620,C1250,Blinkit,Bengaluru,Beverages,8,894,670.5,25,39.0,30,39,2682.0,COD,Silver,Yes,Yes,3.0,Rider B
+10621,C1043,Zepto,Pune,Fruits,7,974,925.3,5,39.0,30,29,2775.9,Wallet,,Yes,No,1.0,Rider A
+10622,C1074,Zepto,Bengaluru,Beverages,3,414,351.9,15,19.0,20,36,703.8,COD,None,No,No,3.0,Rider D
+10623,C1162,Blinkit,Mumbai,Snacks,2,222,199.8,10,0.0,10,5,399.6,COD,None,Yes,Yes,2.0,Rider B
+10624,C1092,blinkit,Delhi,Personal Care,1,897,852.15,5,0.0,20,32,5965.05,UPI,Gold,Yes,Yes,2.0,Rider A
+10625,C1268,Zepto,Chennai,Beverages,2,653,522.4,20,19.0,30,35,2089.6,Wallet,Gold,Yes,No,,Rider C
+10626,C1038,Blinkit,Delhi,Fruits,4,138,110.4,20,49.0,15,12,662.4,COD,None,Yes,No,3.0,Rider D
+10627,C1028,BigBasket Now,Chennai,Household,7,653,522.4,20,19.0,30,37,1044.8,Wallet,None,No,No,,Rider A
+10628,C1118,Blinkit,,Vegetables,3,820,820.0,0,29.0,15,17,4920.0,UPI,Gold,Yes,Yes,3.0,Rider E
+10629,C1017,Zepto,Pune,Personal Care,6,177,141.6,20,29.0,25,20,424.8,UPI,Gold,Yes,No,5.0,Rider E
+10630,C1110,Instamart,Bengaluru,Household,6,896,851.2,5,59.0,30,36,6809.6,Wallet,Silver,Yes,Yes,1.0,Rider E
+10631,C1185,,Hyderabad,Personal Care,8,612,428.4,30,39.0,15,25,1713.6,UPI,None,No,Yes,1.0,Rider D
+10632,C1277,Zepto,Hyderabad,Dairy,7,734,660.6,10,49.0,25,43,1981.8,COD,Gold,No,No,4.0,Rider E
+10633,C1108,Zepto,Hyderabad,Snacks,1,735,551.25,25,0.0,10,22,1653.75,Wallet,None,Yes,No,3.0,Rider A
+10634,C1120,Instamart,Chennai,Beverages,2,567,538.65,5,,30,31,3770.55,COD,Gold,No,No,5.0,Rider D
+10635,C1092,Zepto,Mumbai,Snacks,6,727,690.65,5,39.0,20,37,1381.3,Wallet,Gold,Yes,No,1.0,Rider D
+10636,C1053,Instamart,Hyderabad,Beverages,3,871,696.8,20,49.0,25,22,696.8,Wallet,Gold,No,No,3.0,Rider B
+10637,C1172,Instamart,Chennai,Vegetables,2,323,226.1,30,29.0,20,25,1356.6,UPI,Gold,Yes,Yes,4.0,Rider D
+10638,C1124,BigBasket Now,Pune,Household,3,486,461.7,5,0.0,10,19,2308.5,Card,Gold,No,Yes,2.0,Rider D
+10639,C1155,BigBasket Now,Hyderabad,Beverages,4,463,347.25,25,49.0,20,21,347.25,COD,None,Yes,Yes,4.0,Rider A
+10640,C1012,Blinkit,Pune,Dairy,4,325,260.0,20,,15,23,2080.0,COD,Silver,Yes,No,3.0,Rider A
+10641,C1262,Zepto,Pune,Fruits,6,1140,855.0,25,19.0,10,26,2565.0,UPI,None,No,No,4.0,Rider A
+10642,C1230,Instamart,Mumbai,Dairy,7,59,47.2,20,29.0,10,13,377.6,Wallet,Gold,No,No,1.0,Rider D
+10643,C1004,Zepto,Pune,Dairy,3,650,455.0,30,29.0,15,16,3640.0,UPI,None,No,Yes,4.0,Rider B
+10644,C1270,Zepto,Hyderabad,Beverages,5,929,836.1,10,0.0,25,41,836.1,UPI,Silver,No,Yes,2.0,Rider B
+10645,C1267,Zepto,Bengaluru,Beverages,8,77,73.15,5,0.0,30,33,585.2,UPI,Silver,Yes,No,,Rider E
+10646,C1073,BigBasket Now,Chennai,Vegetables,2,1080,972.0,10,29.0,30,32,4860.0,Wallet,None,No,Yes,5.0,Rider B
+10647,C1290,Blinkit,Pune,Household,6,158,142.2,10,49.0,30,48,853.2,Wallet,Silver,Yes,No,2.0,Rider E
+10648,C1201,BigBasket Now,Hyderabad,Personal Care,8,1031,876.35,15,19.0,20,24,5258.1,Card,None,Yes,Yes,4.0,Rider A
+10649,C1149,Zepto,Hyderabad,Snacks,6,586,498.1,15,0.0,30,27,996.2,Card,None,No,Yes,2.0,Rider B
+10650,C1165,,Hyderabad,Vegetables,5,1033,981.35,5,49.0,20,33,1962.7,Wallet,None,No,No,4.0,Rider C
+10651,C1002,BigBasket Now,Bengaluru,Snacks,8,82,77.9,5,59.0,25,40,623.2,COD,Gold,Yes,No,,Rider B
+10652,C1200,Instamart,Delhi,Dairy,2,718,718.0,0,49.0,20,23,718.0,COD,None,Yes,No,2.0,Rider C
+10653,C1227,Instamart,Hyderabad,Personal Care,2,500,425.0,15,59.0,15,26,425.0,UPI,Gold,No,No,4.0,Rider B
+10654,C1237,Blinkit,Delhi,Personal Care,3,330,280.5,15,39.0,15,21,841.5,UPI,Silver,Yes,Yes,2.0,Rider A
+10655,C1011,Blinkit,Pune,Dairy,6,177,132.75,25,29.0,30,34,132.75,COD,None,Yes,No,3.0,Rider E
+10656,C1113,Zepto,Pune,Snacks,8,713,677.35,5,39.0,25,31,3386.75,Card,Silver,Yes,Yes,,Rider C
+10657,C1072,BigBasket Now,Bengaluru,Fruits,6,904,678.0,25,49.0,20,26,3390.0,COD,Gold,Yes,Yes,3.0,Rider D
+10658,C1173,BigBasket Now,Chennai,Vegetables,8,633,633.0,0,49.0,20,15,1899.0,Wallet,Silver,No,No,5.0,Rider D
+10659,C1192,BigBasket Now,Chennai,Personal Care,2,1020,918.0,10,39.0,30,31,5508.0,Wallet,None,Yes,No,5.0,Rider A
+10660,C1022,BigBasket Now,Delhi,Beverages,2,478,430.2,10,19.0,25,43,1290.6,Card,None,No,No,5.0,Rider C
+10661,C1249,Zepto,Pune,Household,3,1042,729.4,30,19.0,25,33,729.4,Wallet,None,No,No,5.0,Rider B
+10662,C1053,Instamart,Bengaluru,Fruits,5,796,557.2,30,0.0,25,38,1114.4,Card,None,No,No,4.0,Rider D
+10663,C1214,,Mumbai,Dairy,3,955,716.25,25,39.0,15,21,2865.0,UPI,Gold,Yes,No,2.0,Rider D
+10664,C1063,BigBasket Now,Pune,Personal Care,3,1062,743.4,30,0.0,15,18,4460.4,COD,Gold,Yes,Yes,3.0,Rider C
+10665,C1192,Zepto,Chennai,Beverages,2,778,583.5,25,49.0,15,33,4084.5,Wallet,Gold,No,No,3.0,Rider B
+10666,C1081,BigBasket Now,Hyderabad,Household,3,876,700.8,20,39.0,15,10,2803.2,COD,Gold,No,Yes,1.0,Rider A
+10667,C1088,BigBasket Now,Mumbai,Fruits,6,660,594.0,10,0.0,20,31,3564.0,COD,None,Yes,No,1.0,Rider D
+10668,C1024,Instamart,Pune,Dairy,2,1060,795.0,25,29.0,10,9,2385.0,UPI,Gold,No,No,,Rider A
+10669,C1232,Instamart,Hyderabad,Beverages,8,219,153.3,30,39.0,20,16,766.5,Wallet,None,No,No,3.0,Rider D
+10670,C1096,BigBasket Now,Bengaluru,Dairy,2,863,819.85,5,49.0,10,16,3279.4,UPI,None,No,Yes,2.0,Rider B
+10671,C1168,Instamart,Delhi,Snacks,4,1029,977.55,5,,30,34,7820.4,Wallet,Gold,No,Yes,,Rider C
+10672,C1096,BigBasket Now,Pune,Snacks,5,1113,946.05,15,39.0,30,26,4730.25,COD,None,Yes,Yes,,Rider C
+10673,C1050,BigBasket Now,Delhi,Snacks,2,198,158.4,20,49.0,10,8,950.4,Card,None,Yes,No,,Rider A
+10674,C1278,Blinkit,Bengaluru,Household,4,557,473.45,15,39.0,30,26,1420.35,UPI,Gold,Yes,Yes,5.0,Rider E
+10675,C1195,Zepto,Chennai,Fruits,3,154,154.0,0,,20,20,924.0,Wallet,Silver,No,Yes,5.0,Rider C
+10676,C1077,BigBasket Now,Bengaluru,Snacks,3,788,788.0,0,0.0,10,5,4728.0,UPI,Gold,Yes,No,2.0,Rider E
+10677,C1016,BigBasket Now,Bengaluru,Snacks,1,1173,1173.0,0,29.0,20,28,2346.0,UPI,Silver,Yes,Yes,2.0,Rider C
+10678,C1043,BigBasket Now,Hyderabad,Fruits,6,469,422.1,10,29.0,15,32,2110.5,Card,Silver,No,Yes,,Rider C
+10679,C1027,Instamart,Mumbai,Household,7,193,144.75,25,0.0,15,29,868.5,COD,Gold,No,Yes,,Rider D
+10680,C1099,Blinkit,Delhi,Fruits,5,87,60.9,30,49.0,25,25,121.8,COD,Silver,No,Yes,,Rider D
+10681,C1284,Instamart,Hyderabad,Dairy,1,82,77.9,5,0.0,25,39,389.5,UPI,None,Yes,No,2.0,Rider E
+10682,C1046,Instamart,Hyderabad,Dairy,7,233,209.7,10,39.0,15,30,1677.6,UPI,Silver,No,No,2.0,Rider E
+10683,C1016,BigBasket Now,Chennai,Vegetables,6,1157,809.9,30,19.0,10,12,5669.3,UPI,Silver,Yes,No,5.0,Rider E
+10684,C1289,Blinkit,Pune,Fruits,6,276,207.0,25,19.0,30,27,1656.0,UPI,Gold,Yes,No,4.0,Rider E
+10685,C1190,BigBasket Now,Pune,Vegetables,6,911,683.25,25,0.0,10,21,2049.75,Wallet,Gold,No,Yes,3.0,Rider A
+10686,C1270,Zepto,Bengaluru,Household,7,476,404.6,15,49.0,10,9,1213.8,Wallet,Silver,Yes,No,4.0,Rider A
+10687,C1001,Blinkit,Hyderabad,Household,8,1019,815.2,20,59.0,30,38,4076.0,Wallet,Silver,No,Yes,4.0,Rider A
+10688,C1162,Zepto,Chennai,Dairy,6,853,597.1,30,29.0,20,21,2388.4,COD,None,Yes,Yes,,Rider D
+10689,C1028,Instamart,Delhi,Vegetables,5,306,260.1,15,0.0,10,24,260.1,COD,Gold,No,No,,Rider C
+10690,C1236,Instamart,Bengaluru,Vegetables,6,720,540.0,25,49.0,10,10,540.0,COD,None,No,Yes,5.0,Rider A
+10691,C1237,BigBasket Now,Bengaluru,Household,3,912,820.8,10,59.0,25,38,820.8,Card,None,Yes,No,,Rider C
+10692,C1234,Instamart, Chennai ,Dairy,7,216,162.0,25,19.0,20,23,486.0,Card,Silver,Yes,Yes,2.0,Rider C
+10693,C1248,BigBasket Now,Pune,Household,2,67,67.0,0,39.0,30,44,402.0,UPI,Gold,No,Yes,1.0,Rider E
+10694,C1248,Blinkit,Hyderabad,Vegetables,7,343,291.55,15,29.0,20,36,2332.4,Wallet,Silver,No,No,1.0,Rider C
+10695,C1195,BigBasket Now,Pune,Snacks,8,262,209.6,20,0.0,10,18,419.2,UPI,Silver,No,Yes,2.0,Rider A
+10696,C1116,BigBasket Now,Bengaluru,Beverages,1,869,869.0,0,19.0,15,10,869.0,COD,Gold,No,No,4.0,Rider B
+10697,C1181,BigBasket Now,Hyderabad,Personal Care,4,893,714.4,20,39.0,15,19,3572.0,Card,Gold,Yes,No,5.0,Rider A
+10698,C1286,Blinkit,Mumbai,Fruits,3,514,359.8,30,59.0,25,35,1079.4,UPI,Silver,Yes,Yes,5.0,Rider E
+10699,C1163,Blinkit,Mumbai,Vegetables,2,437,371.45,15,49.0,15,33,2228.7,Wallet,Silver,No,Yes,3.0,Rider B
+10700,C1232,Blinkit, Chennai ,Personal Care,6,857,771.3,10,39.0,25,36,1542.6,COD,Silver,Yes,No,3.0,Rider E
+10701,C1211,Blinkit,Mumbai,Household,3,858,643.5,25,29.0,25,33,5148.0,Wallet,Silver,No,Yes,2.0,Rider A
+10702,C1258,Blinkit,Mumbai,Snacks,8,868,737.8,15,0.0,20,32,737.8,Card,Gold,Yes,No,5.0,Rider D
+10703,C1087,BigBasket Now,Pune,Household,2,993,695.1,30,0.0,20,29,4865.7,UPI,Gold,Yes,No,1.0,Rider C
+10704,C1293,,Hyderabad,Household,5,1044,939.6,10,49.0,10,8,5637.6,UPI,Silver,No,Yes,4.0,Rider C
+10705,C1144,BigBasket Now,Delhi,Personal Care,2,181,171.95,5,0.0,20,22,515.85,UPI,Gold,No,No,3.0,Rider A
+10706,C1282,BigBasket Now,Delhi,Dairy,6,1125,1012.5,10,19.0,20,36,8100.0,COD,Gold,No,No,5.0,Rider C
+10707,C1138,Instamart,Hyderabad,Vegetables,7,402,341.7,15,29.0,30,39,1366.8,UPI,None,Yes,Yes,5.0,Rider D
+10708,C1023,Instamart,Delhi,Household,4,313,297.35,5,49.0,10,25,1784.1,COD,None,Yes,Yes,4.0,Rider C
+10709,C1256,Instamart,Chennai,Dairy,4,71,60.35,15,29.0,25,39,482.8,Wallet,Gold,Yes,No,,Rider C
+10710,C1151,BigBasket Now,Delhi,Fruits,2,925,740.0,20,19.0,30,36,740.0,Wallet,Silver,No,No,3.0,Rider A
+10711,C1024,BigBasket Now,Mumbai,Personal Care,8,251,188.25,25,0.0,10,20,753.0,COD,None,Yes,No,1.0,Rider C
+10712,C1109,Blinkit,Pune,Household,5,250,212.5,15,29.0,20,22,1700.0,Card,Gold,Yes,No,,Rider E
+10713,C1273,Blinkit,Mumbai,Dairy,8,1098,933.3,15,39.0,10,7,2799.9,UPI,Silver,Yes,Yes,2.0,Rider D
+10714,C1258,BigBasket Now,Pune,Household,7,884,618.8,30,29.0,25,24,1856.4,UPI,None,Yes,Yes,5.0,Rider A
+10715,C1018,Instamart,Bengaluru,Household,7,1113,1001.7,10,19.0,10,21,2003.4,Card,Silver,No,Yes,4.0,Rider A
+10716,C1113,Zepto,Mumbai,Fruits,8,350,262.5,25,19.0,20,25,1050.0,Wallet,Gold,Yes,Yes,2.0,Rider B
+10717,C1041,Zepto,Pune,Dairy,7,136,136.0,0,0.0,30,45,952.0,Card,Silver,Yes,No,,Rider E
+10718,C1022,Zepto,,Dairy,7,264,224.4,15,49.0,20,27,673.2,Wallet,Gold,No,No,3.0,Rider C
+10719,C1215,Zepto,Mumbai,Personal Care,5,929,882.55,5,49.0,15,19,6177.85,COD,Silver,Yes,No,,Rider C
+10720,C1225,Zepto,Pune,Dairy,7,640,608.0,5,19.0,25,20,1216.0,Wallet,Silver,No,No,2.0,Rider E
+10721,C1221,Instamart,Bengaluru,Vegetables,7,998,748.5,25,49.0,10,24,5988.0,Card,Silver,No,Yes,3.0,Rider E
+10722,C1183,BigBasket Now,Mumbai,Household,7,1145,1145.0,0,59.0,20,19,8015.0,Card,Gold,No,No,4.0,Rider C
+10723,C1245,Zepto,Pune,Fruits,2,69,58.65,15,49.0,25,36,175.95,UPI,None,No,No,3.0,Rider B
+10724,C1222,Instamart,Bengaluru,Snacks,1,875,743.75,15,59.0,20,31,4462.5,COD,None,No,Yes,4.0,Rider D
+10725,C1289,Zepto,Bengaluru,Dairy,5,1184,947.2,20,29.0,10,28,947.2,UPI,Gold,Yes,No,3.0,Rider E
+10726,C1210,Blinkit,Bengaluru,Vegetables,6,415,311.25,25,39.0,30,30,622.5,COD,None,No,Yes,2.0,Rider D
+10727,C1122,Zepto,Chennai,Beverages,3,511,383.25,25,49.0,20,22,3066.0,Card,Gold,Yes,No,1.0,Rider E
+10728,C1054,Zepto, Chennai ,Dairy,8,486,364.5,25,19.0,20,28,1458.0,Card,Silver,No,Yes,3.0,Rider B
+10729,C1109,BigBasket Now,Pune,Snacks,5,98,73.5,25,39.0,10,18,588.0,Wallet,Gold,Yes,Yes,1.0,Rider C
+10730,C1189,BigBasket Now,,Vegetables,3,790,553.0,30,0.0,20,28,3871.0,COD,Silver,Yes,Yes,1.0,Rider B
+10731,C1189,Zepto,Pune,Fruits,4,306,260.1,15,49.0,30,41,2080.8,Wallet,Gold,Yes,Yes,2.0,Rider B
+10732,C1104,Zepto,Mumbai,Personal Care,8,1155,981.75,15,29.0,25,21,981.75,UPI,Silver,No,No,2.0,Rider A
+10733,C1078,Instamart,Bengaluru,Vegetables,3,895,760.75,15,49.0,15,10,6086.0,Card,Gold,Yes,No,,Rider D
+10734,C1110,Instamart,Mumbai,Fruits,3,721,721.0,0,39.0,15,18,2163.0,COD,Silver,Yes,Yes,5.0,Rider E
+10735,C1132,Instamart,Bengaluru,Fruits,8,1166,1166.0,0,29.0,15,23,8162.0,Card,Silver,No,Yes,1.0,Rider E
+10736,C1212,Blinkit,Mumbai,Beverages,4,851,765.9,10,39.0,25,27,765.9,COD,None,Yes,Yes,1.0,Rider D
+10737,C1279,BigBasket Now,Hyderabad,Personal Care,5,888,621.6,30,29.0,15,32,4351.2,UPI,Gold,No,No,5.0,Rider C
+10738,C1246,Blinkit,Pune,Household,7,929,650.3,30,49.0,15,29,3901.8,COD,None,Yes,No,5.0,Rider E
+10739,C1012,BigBasket Now,Pune,Beverages,4,888,621.6,30,59.0,15,26,1864.8,COD,Gold,No,Yes,4.0,Rider A
+10740,C1194,Zepto,Bengaluru,Personal Care,1,897,852.15,5,29.0,15,29,5112.9,Wallet,None,No,No,3.0,Rider E
+10741,C1240,Instamart,Chennai,Vegetables,8,776,698.4,10,59.0,25,28,698.4,COD,None,Yes,Yes,,Rider E
+10742,C1000,Blinkit,Chennai,Dairy,5,730,547.5,25,49.0,30,26,1095.0,Card,None,No,No,1.0,Rider C
+10743,C1229,Instamart,Mumbai,Vegetables,2,999,999.0,0,29.0,10,6,2997.0,Card,Silver,No,No,4.0,Rider C
+10744,C1140,Instamart,Mumbai,Vegetables,2,957,861.3,10,49.0,15,21,6029.1,COD,Silver,Yes,Yes,,Rider D
+10745,C1225,Instamart,Pune,Dairy,5,630,630.0,0,29.0,20,33,1260.0,COD,Gold,Yes,No,,Rider B
+10746,C1277,Blinkit,,Beverages,1,862,775.8,10,19.0,15,21,5430.6,UPI,Gold,No,No,5.0,Rider A
+10747,C1234,Zepto,Chennai,Snacks,6,1145,973.25,15,0.0,15,25,3893.0,Wallet,Gold,Yes,Yes,3.0,Rider D
+10748,C1002,BigBasket Now,Pune,Fruits,4,1154,1096.3,5,49.0,20,25,5481.5,COD,None,No,Yes,5.0,Rider D
+10749,C1184,BigBasket Now,Pune,Vegetables,7,733,513.1,30,0.0,20,38,3591.7,COD,Silver,Yes,Yes,1.0,Rider E
+10750,C1142,Instamart,Chennai,Dairy,7,121,114.95,5,39.0,20,24,804.65,UPI,None,No,No,1.0,Rider B
+10751,C1145,Blinkit,Chennai,Beverages,7,476,452.2,5,0.0,10,7,904.4,Card,None,No,No,5.0,Rider A
+10752,C1061,Instamart,Bengaluru,Personal Care,7,921,644.7,30,29.0,20,36,2578.8,COD,Gold,No,Yes,3.0,Rider D
+10753,C1221,Instamart,Pune,Personal Care,4,144,100.8,30,39.0,25,29,604.8,UPI,Gold,Yes,No,1.0,Rider E
+10754,C1081,Blinkit,Bengaluru,Dairy,6,591,472.8,20,49.0,30,29,3309.6,Wallet,None,Yes,Yes,1.0,Rider B
+10755,C1001,Instamart,Mumbai,Fruits,7,158,110.6,30,49.0,30,43,663.6,Wallet,Silver,Yes,No,1.0,Rider C
+10756,C1036,BigBasket Now,Pune,Dairy,8,981,735.75,25,39.0,30,41,2943.0,COD,Silver,No,Yes,5.0,Rider C
+10757,C1088,BigBasket Now,Bengaluru,Dairy,8,647,614.65,5,49.0,25,33,1229.3,UPI,None,Yes,Yes,1.0,Rider A
+10758,C1257,BigBasket Now,Chennai,Beverages,2,388,329.8,15,49.0,10,26,329.8,Card,Gold,No,No,,Rider C
+10759,C1201,Instamart,Chennai,Dairy,5,733,696.35,5,19.0,30,45,4874.45,UPI,Silver,Yes,No,4.0,Rider B
+10760,C1272,Zepto,Chennai,Snacks,5,88,88.0,0,39.0,15,22,704.0,COD,Gold,Yes,Yes,5.0,Rider D
+10761,C1292,Blinkit,Bengaluru,Dairy,4,580,551.0,5,49.0,10,12,3857.0,Card,Silver,Yes,Yes,3.0,Rider C
+10762,C1062,Zepto,Pune,Household,2,559,475.15,15,29.0,15,10,3326.05,Card,Silver,No,No,4.0,Rider E
+10763,C1256,BigBasket Now,Chennai,Dairy,5,1184,1006.4,15,49.0,30,46,6038.4,Card,Gold,No,Yes,1.0,Rider A
+10764,C1087,BigBasket Now,Delhi,Beverages,3,641,512.8,20,29.0,20,31,2051.2,COD,Gold,No,No,2.0,Rider B
+10765,C1092,Zepto,Bengaluru,Snacks,2,526,447.1,15,0.0,30,27,1788.4,Wallet,None,Yes,Yes,4.0,Rider E
+10766,C1270,Instamart,Bengaluru,Fruits,1,955,859.5,10,59.0,30,30,6016.5,COD,Silver,Yes,No,,Rider C
+10767,C1292,Blinkit,Hyderabad,Fruits,6,507,507.0,0,29.0,15,24,2028.0,Wallet,Silver,No,No,3.0,Rider D
+10768,C1059,Instamart,,Dairy,8,419,293.3,30,59.0,30,44,2346.4,Wallet,None,No,Yes,3.0,Rider E
+10769,C1204,BigBasket Now,Pune,Household,4,218,196.2,10,0.0,30,41,981.0,Wallet,None,No,Yes,3.0,Rider D
+10770,C1270,BigBasket Now,Chennai,Dairy,2,88,74.8,15,59.0,15,11,448.8,Wallet,None,Yes,Yes,2.0,Rider E
+10771,C1181,Zepto,Chennai,Beverages,2,1154,807.8,30,29.0,30,39,1615.6,Wallet,Gold,Yes,Yes,4.0,Rider B
+10772,C1201,BigBasket Now,Hyderabad,Vegetables,8,1004,702.8,30,19.0,15,23,3514.0,Card,Silver,Yes,Yes,5.0,Rider D
+10773,C1206,BigBasket Now,Pune,Dairy,8,967,870.3,10,39.0,25,32,3481.2,Card,None,Yes,No,4.0,Rider B
+10774,C1088,Instamart,Mumbai,Personal Care,2,1085,1085.0,0,49.0,25,23,7595.0,COD,Silver,Yes,No,2.0,Rider E
+10775,C1208,BigBasket Now,Mumbai,Snacks,6,741,518.7,30,59.0,15,28,3112.2,Wallet,,No,No,5.0,Rider D
+10776,C1150,Zepto,Chennai,Beverages,8,278,278.0,0,39.0,25,32,1946.0,Card,Gold,Yes,No,3.0,Rider D
+10777,C1033,Instamart,Chennai,Dairy,7,993,893.7,10,49.0,15,17,6255.9,Wallet,Gold,Yes,No,3.0,Rider D
+10778,C1044,Blinkit,Pune,Beverages,3,576,518.4,10,39.0,10,15,2592.0,UPI,None,Yes,Yes,3.0,Rider E
+10779,C1070,Blinkit,Delhi,Fruits,8,471,400.35,15,49.0,30,32,2402.1,Card,Silver,No,No,3.0,Rider B
+10780,C1287,Blinkit, Chennai ,Beverages,3,662,463.4,30,49.0,20,27,3707.2,COD,None,Yes,Yes,1.0,Rider D
+10781,C1179,Instamart,Mumbai,Beverages,1,335,268.0,20,19.0,10,7,536.0,UPI,Silver,No,Yes,,Rider D
+10782,C1295,BigBasket Now,Chennai,fruit,5,922,875.9,5,19.0,10,12,4379.5,Card,Silver,No,No,5.0,Rider D
+10783,C1033,Instamart,Pune,Personal Care,7,828,745.2,10,19.0,30,25,745.2,Card,Silver,Yes,Yes,1.0,Rider B
+10784,C1296,Instamart,Pune,Dairy,5,201,140.7,30,49.0,20,33,844.2,COD,Gold,No,Yes,5.0,Rider A
+10785,C1096,BigBasket Now,,Dairy,4,468,397.8,15,0.0,30,33,795.6,Wallet,None,No,No,5.0,Rider C
+10786,C1198,Instamart,Bengaluru,Beverages,8,1080,918.0,15,29.0,10,21,1836.0,Wallet,Silver,Yes,No,,Rider A
+10787,C1203,Blinkit,Chennai,Beverages,4,240,240.0,0,29.0,15,12,1680.0,Wallet,None,Yes,Yes,5.0,Rider C
+10788,C1260,Blinkit,Chennai,Household,2,302,286.9,5,0.0,25,27,573.8,COD,Silver,Yes,Yes,5.0,Rider E
+10789,C1193,Blinkit,Bengaluru,Snacks,7,1195,1075.5,10,59.0,25,22,4302.0,COD,Gold,No,No,1.0,Rider B
+10790,C1130,Instamart,Chennai,Fruits,3,999,749.25,25,29.0,15,17,749.25,Card,Gold,No,No,3.0,Rider B
+10791,C1117,BigBasket Now,Bengaluru,Vegetables,7,928,742.4,20,49.0,15,17,2969.6,Card,Silver,Yes,No,3.0,Rider B
+10792,C1119,Blinkit,Hyderabad,Dairy,5,567,453.6,20,39.0,30,48,1360.8,UPI,Gold,Yes,Yes,2.0,Rider E
+10793,C1094,Blinkit,Mumbai,Dairy,2,317,253.6,20,0.0,25,38,1268.0,Card,None,Yes,No,4.0,Rider E
+10794,C1243,Zepto,Bengaluru,Personal Care,8,1179,1002.15,15,49.0,30,34,2004.3,COD,None,No,No,,Rider C
+10795,C1007,Blinkit,Delhi,Snacks,4,801,640.8,20,39.0,15,25,4485.6,Card,Gold,Yes,Yes,4.0,Rider B
+10796,C1076,Instamart,Bengaluru,Snacks,5,905,814.5,10,59.0,10,15,6516.0,UPI,Silver,Yes,No,4.0,Rider B
+10797,C1178,BigBasket Now,Hyderabad,Dairy,2,1074,1074.0,0,29.0,30,30,6444.0,Card,Gold,Yes,No,4.0,Rider E
+10798,C1042,Zepto,,fruit,7,304,243.2,20,19.0,25,22,1459.2,COD,None,Yes,Yes,2.0,Rider B
+10799,C1298,Blinkit,Mumbai,Fruits,6,375,262.5,30,59.0,25,27,525.0,UPI,None,Yes,No,3.0,Rider B
+10800,C1027,Blinkit,Delhi,Dairy,7,1031,824.8,20,19.0,20,17,3299.2,UPI,None,No,Yes,,Rider C
+10801,C1000,Blinkit,Hyderabad,Snacks,5,1079,755.3,30,39.0,20,20,2265.9,Card,Gold,Yes,Yes,3.0,Rider E
+10802,C1012,Blinkit,Pune,Beverages,7,111,83.25,25,0.0,10,6,333.0,Wallet,Gold,No,No,2.0,Rider A
+10803,C1230,Instamart,Chennai,Snacks,6,452,339.0,25,19.0,15,24,2373.0,Wallet,,No,Yes,5.0,Rider D
+10804,C1113,Instamart,Delhi,Fruits,4,277,235.45,15,49.0,25,21,706.35,UPI,None,Yes,Yes,4.0,Rider B
+10805,C1295,Instamart,Bengaluru,Vegetables,7,626,532.1,15,59.0,25,36,1596.3,COD,Gold,No,Yes,,Rider A
+10806,C1168,Instamart,Mumbai,Fruits,6,1171,819.7,30,29.0,15,26,819.7,Card,None,Yes,No,4.0,Rider B
+10807,C1297,Instamart,Bengaluru,Household,7,736,515.2,30,0.0,20,19,2060.8,COD,Silver,Yes,Yes,5.0,Rider C
+10808,C1102,Blinkit,Pune,Fruits,6,163,130.4,20,19.0,25,32,260.8,Wallet,Gold,Yes,No,1.0,Rider B
+10809,C1083,Instamart,Mumbai,Dairy,3,315,236.25,25,59.0,30,33,1890.0,COD,Gold,Yes,No,1.0,Rider B
+10810,C1286,Instamart,Hyderabad,Fruits,6,564,423.0,25,29.0,10,15,3384.0,UPI,Silver,No,No,2.0,Rider D
+10811,C1281,Zepto,Mumbai,Beverages,1,244,183.0,25,0.0,10,6,732.0,Wallet,Silver,Yes,Yes,,Rider A
+10812,C1231,Blinkit,Hyderabad,Vegetables,4,304,243.2,20,29.0,15,27,1945.6,Card,Silver,Yes,No,,Rider B
+10813,C1216,blinkit,Bengaluru,Personal Care,3,564,564.0,0,19.0,15,19,1128.0,Card,Silver,Yes,No,5.0,Rider E
+10814,C1225,BigBasket Now,Mumbai,Personal Care,1,573,429.75,25,19.0,20,21,3008.25,UPI,Gold,Yes,Yes,1.0,Rider A
+10815,C1272,Zepto,Mumbai,Vegetables,2,616,431.2,30,49.0,30,44,862.4,Wallet,None,No,No,3.0,Rider C
+10816,C1101,BigBasket Now,Chennai,Dairy,4,612,581.4,5,19.0,30,25,581.4,Wallet,Gold,No,Yes,1.0,Rider A
+10817,C1176,,Pune,Vegetables,2,118,82.6,30,29.0,15,21,82.6,Card,Silver,Yes,Yes,1.0,Rider B
+10818,C1136,Blinkit,Delhi,Dairy,8,497,397.6,20,29.0,30,35,795.2,Wallet,Gold,Yes,No,1.0,Rider C
+10819,C1263,BigBasket Now,Hyderabad,Household,6,1078,970.2,10,49.0,20,30,3880.8,COD,Silver,Yes,No,2.0,Rider B
+10820,C1155,BigBasket Now,Delhi,Beverages,3,236,177.0,25,19.0,25,37,354.0,Wallet,None,No,Yes,,Rider A
+10821,C1269,BigBasket Now,Bengaluru,Dairy,8,1025,717.5,30,0.0,25,38,3587.5,COD,Gold,No,Yes,,Rider C
+10822,C1000,Zepto,Bengaluru,Beverages,1,291,291.0,0,29.0,15,12,873.0,Wallet,Gold,Yes,Yes,3.0,Rider C
+10823,C1011,Instamart,Mumbai,Vegetables,2,373,317.05,15,39.0,20,22,1902.3,UPI,Gold,Yes,Yes,4.0,Rider B
+10824,C1106,Zepto,Pune,Dairy,5,157,141.3,10,19.0,20,22,847.8,COD,Silver,No,Yes,4.0,Rider B
+10825,C1188,Zepto,Hyderabad,Fruits,1,411,328.8,20,59.0,25,34,657.6,Card,Gold,No,No,3.0,Rider B
+10826,C1001,Blinkit,Pune,Beverages,1,811,648.8,20,29.0,25,34,648.8,Card,Silver,No,Yes,4.0,Rider D
+10827,C1223,BigBasket Now,Pune,Dairy,3,874,874.0,0,59.0,15,10,1748.0,Wallet,Gold,Yes,No,3.0,Rider D
+10828,C1126,BigBasket Now,Bengaluru,Vegetables,3,700,490.0,30,19.0,10,18,1470.0,COD,Silver,No,No,5.0,Rider D
+10829,C1260,Blinkit,Chennai,Snacks,8,982,982.0,0,59.0,20,25,7856.0,Wallet,Silver,Yes,Yes,,Rider E
+10830,C1067,BigBasket Now,Pune,Beverages,5,785,549.5,30,39.0,20,24,1648.5,Card,None,Yes,Yes,4.0,Rider C
+10831,C1225,BigBasket Now,Chennai,Household,8,891,623.7,30,0.0,20,23,1871.1,Card,Gold,Yes,No,1.0,Rider D
+10832,C1164,Blinkit,Mumbai,Personal Care,7,41,28.7,30,0.0,15,27,57.4,Card,None,No,Yes,2.0,Rider D
+10833,C1273,Zepto,Bengaluru,Vegetables,4,779,545.3,30,19.0,15,17,1635.9,Card,Gold,Yes,No,1.0,Rider B
+10834,C1245,Instamart,Delhi,Snacks,4,944,708.0,25,19.0,15,17,4248.0,UPI,Silver,Yes,No,1.0,Rider B
+10835,C1102,Instamart,Delhi,Beverages,7,567,567.0,0,49.0,20,30,3402.0,UPI,Silver,Yes,Yes,2.0,Rider E
+10836,C1052,Zepto,Bengaluru,Fruits,8,465,395.25,15,59.0,20,27,3162.0,COD,Silver,No,Yes,3.0,Rider A
+10837,C1148,Instamart,Chennai,Vegetables,3,367,275.25,25,49.0,20,26,1376.25,Wallet,Gold,Yes,No,2.0,Rider B
+10838,C1238,Instamart,Delhi,Fruits,7,502,476.9,5,59.0,15,11,2384.5,Card,None,Yes,No,1.0,Rider B
+10839,C1121,BigBasket Now,Mumbai,Household,3,1139,911.2,20,49.0,30,29,4556.0,Card,None,No,No,4.0,Rider B
+10840,C1262,Zepto,Hyderabad,Snacks,4,1030,824.0,20,59.0,20,22,3296.0,Card,None,No,No,3.0,Rider D
+10841,C1258,blinkit,Mumbai,Dairy,4,822,616.5,25,39.0,25,34,4932.0,Wallet,Silver,Yes,No,,Rider E
+10842,C1132,Instamart,Bengaluru,Fruits,7,53,47.7,10,49.0,10,9,333.9,UPI,Silver,No,No,3.0,Rider C
+10843,C1286,Zepto,Mumbai,Dairy,1,515,386.25,25,39.0,25,32,1158.75,COD,Silver,Yes,Yes,2.0,Rider A
+10844,C1291,Zepto,Delhi,Household,3,831,623.25,25,29.0,25,38,623.25,Card,None,No,No,3.0,Rider C
+10845,C1131,Instamart,Pune,Vegetables,1,249,174.3,30,59.0,20,15,174.3,UPI,Gold,No,No,3.0,Rider D
+10846,C1276,Zepto,Hyderabad,Household,5,999,749.25,25,19.0,25,38,1498.5,Card,Gold,No,Yes,3.0,Rider C
+10847,C1180,Zepto,Chennai,Beverages,1,88,79.2,10,29.0,15,13,158.4,COD,Silver,Yes,No,5.0,Rider D
+10848,C1024,blinkit,Delhi,Fruits,2,802,761.9,5,39.0,20,24,3047.6,Card,Gold,Yes,Yes,1.0,Rider E
+10849,C1154,Zepto,Bengaluru,Vegetables,2,548,411.0,25,19.0,30,26,3288.0,UPI,None,Yes,No,2.0,Rider D
+10850,C1085,BigBasket Now,Delhi,Beverages,5,1094,1039.3,5,49.0,20,17,1039.3,COD,Silver,Yes,No,5.0,Rider B
+10851,C1283,Zepto,Pune,Dairy,2,378,283.5,25,59.0,20,29,567.0,COD,None,Yes,Yes,,Rider C
+10852,C1256,Zepto,Mumbai,Beverages,1,382,305.6,20,59.0,15,13,305.6,Wallet,Gold,Yes,No,2.0,Rider A
+10853,C1170,Zepto,Bengaluru,Beverages,3,1002,901.8,10,49.0,30,31,1803.6,UPI,Gold,Yes,Yes,2.0,Rider C
+10854,C1099,BigBasket Now,Bengaluru,Beverages,5,693,589.05,15,39.0,25,41,4123.35,COD,Gold,Yes,No,3.0,Rider C
+10855,C1096,Zepto,Hyderabad,Beverages,7,212,180.2,15,39.0,10,18,540.6,Wallet,Silver,No,No,1.0,Rider D
+10856,C1113,Zepto,Delhi,Snacks,1,868,781.2,10,49.0,25,31,6249.6,Wallet,Gold,Yes,Yes,2.0,Rider D
+10857,C1027,Instamart,Chennai,Dairy,2,1010,757.5,25,19.0,20,16,2272.5,Card,Gold,No,Yes,1.0,Rider D
+10858,C1122,Zepto,Hyderabad,Household,8,794,595.5,25,29.0,25,42,4764.0,UPI,Gold,No,Yes,4.0,Rider A
+10859,C1299,Zepto,Delhi,Snacks,2,71,53.25,25,49.0,10,7,266.25,COD,Silver,No,Yes,2.0,Rider E
+10860,C1158,Blinkit,Hyderabad,Vegetables,4,836,668.8,20,59.0,30,46,5350.4,UPI,Gold,No,No,5.0,Rider B
+10861,C1161,BigBasket Now,Mumbai,Dairy,8,783,626.4,20,19.0,30,40,3132.0,Wallet,None,Yes,Yes,,Rider A
+10862,C1010,Blinkit,Delhi,Personal Care,3,784,666.4,15,49.0,20,18,1999.2,COD,None,No,Yes,3.0,Rider E
+10863,C1017,Blinkit,Bengaluru,Vegetables,8,354,300.9,15,59.0,20,25,2106.3,COD,Gold,Yes,Yes,5.0,Rider C
+10864,C1171,Instamart,Delhi,Snacks,8,559,531.05,5,19.0,20,19,3186.3,COD,Gold,No,Yes,4.0,Rider C
+10865,C1107,BigBasket Now,Pune,Personal Care,7,620,620.0,0,19.0,25,39,2480.0,Card,None,Yes,No,5.0,Rider D
+10866,C1262,Blinkit,Chennai,Snacks,3,640,448.0,30,49.0,10,13,2240.0,Card,Gold,No,No,2.0,Rider B
+10867,C1192,Zepto,Chennai,Snacks,2,994,994.0,0,49.0,25,43,3976.0,Card,Silver,Yes,Yes,4.0,Rider E
+10868,C1176,Blinkit,Chennai,Vegetables,8,749,749.0,0,49.0,30,47,4494.0,UPI,None,Yes,No,5.0,Rider C
+10869,C1176,Zepto,Pune,Personal Care,7,1180,1003.0,15,,15,26,7021.0,Card,None,No,No,3.0,Rider A
+10870,C1131,BigBasket Now,Hyderabad,Dairy,2,159,111.3,30,59.0,15,28,222.6,Wallet,Silver,No,No,1.0,Rider E
+10871,C1078,Blinkit,Bengaluru,Beverages,6,351,263.25,25,19.0,20,27,1842.75,UPI,None,No,No,5.0,Rider D
+10872,C1076,Zepto,Pune,Household,4,65,58.5,10,49.0,25,40,292.5,UPI,None,No,Yes,5.0,Rider B
+10873,C1295,Instamart,Mumbai,Dairy,2,936,842.4,10,0.0,20,21,4212.0,UPI,Gold,No,Yes,5.0,Rider C
+10874,C1132,Instamart,Chennai,Beverages,4,686,686.0,0,0.0,25,22,686.0,Wallet,Gold,Yes,Yes,2.0,Rider D
+10875,C1196,Instamart,Delhi,Personal Care,5,82,69.7,15,39.0,30,41,209.1,UPI,Silver,Yes,Yes,4.0,Rider E
+10876,C1011,Zepto,Pune,Beverages,3,372,372.0,0,0.0,20,25,372.0,Card,Gold,Yes,No,,Rider C
+10877,C1007,Zepto,Delhi,Fruits,6,183,137.25,25,39.0,10,6,1098.0,COD,Gold,Yes,Yes,,Rider E
+10878,C1214,Zepto,Mumbai,Snacks,4,837,669.6,20,49.0,10,6,5356.8,COD,None,Yes,Yes,3.0,Rider B
+10879,C1037,Blinkit,Hyderabad,Vegetables,3,1119,1119.0,0,59.0,10,5,7833.0,Card,Silver,Yes,No,1.0,Rider D
+10880,C1217,Blinkit,Delhi,Snacks,1,757,757.0,0,19.0,25,38,4542.0,Card,Silver,Yes,No,3.0,Rider A
+10881,C1257,Blinkit,Bengaluru,Beverages,8,651,585.9,10,59.0,30,33,585.9,COD,Silver,Yes,No,5.0,Rider C
+10882,C1097,BigBasket Now,Hyderabad,Household,7,175,122.5,30,0.0,30,38,857.5,Wallet,Gold,No,Yes,5.0,Rider E
+10883,C1026,BigBasket Now,Hyderabad,Snacks,7,826,743.4,10,29.0,15,30,3717.0,Card,Gold,Yes,No,5.0,Rider C
+10884,C1186,Blinkit,Pune,Vegetables,4,1101,935.85,15,59.0,10,26,5615.1,UPI,None,Yes,No,4.0,Rider A
+10885,C1260,Blinkit,Chennai,Snacks,6,968,822.8,15,19.0,20,32,3291.2,Card,Silver,Yes,No,4.0,Rider C
+10886,C1069,BigBasket Now,Bengaluru,Personal Care,6,501,450.9,10,19.0,20,38,901.8,UPI,Silver,Yes,No,,Rider E
+10887,C1237,Blinkit,Hyderabad,Personal Care,4,417,375.3,10,49.0,25,33,1501.2,Card,Silver,Yes,Yes,3.0,Rider C
+10888,C1052,Blinkit,Mumbai,Fruits,6,578,433.5,25,59.0,15,31,433.5,Card,None,Yes,No,,Rider B
+10889,C1102,Instamart,Pune,Fruits,3,1019,764.25,25,19.0,10,10,3057.0,Card,None,No,No,,Rider D
+10890,C1240,Blinkit,Chennai,Household,6,1121,784.7,30,39.0,10,7,2354.1,Card,None,No,No,4.0,Rider D
+10891,C1161,Instamart,Mumbai,Household,5,985,738.75,25,59.0,15,28,738.75,UPI,Gold,No,No,,Rider A
+10892,C1098,Zepto,Mumbai,Household,3,107,85.6,20,19.0,30,45,85.6,Wallet,Gold,Yes,Yes,2.0,Rider E
+10893,C1074,Instamart,Hyderabad,Household,1,234,222.3,5,49.0,20,36,1333.8,UPI,,Yes,Yes,,Rider A
+10894,C1185,Instamart,Hyderabad,Beverages,6,517,413.6,20,49.0,20,19,3308.8,UPI,None,No,No,3.0,Rider C
+10895,C1255,Blinkit, Chennai ,Beverages,7,890,890.0,0,29.0,20,22,890.0,Wallet,Silver,Yes,No,4.0,Rider E
+10896,C1162,BigBasket Now,Mumbai,Beverages,1,1191,833.7,30,0.0,30,41,2501.1,COD,Gold,Yes,Yes,1.0,Rider B
+10897,C1248,Blinkit,Mumbai,Vegetables,2,496,471.2,5,29.0,30,35,471.2,COD,,No,Yes,4.0,Rider D
+10898,C1023,Zepto,Pune,Personal Care,3,729,619.65,15,19.0,10,5,2478.6,Wallet,Gold,No,Yes,5.0,Rider D
+10899,C1163,Instamart,Hyderabad,Household,7,753,753.0,0,49.0,30,47,2259.0,Card,None,Yes,No,2.0,Rider A
+10900,C1033,BigBasket Now,Bengaluru,Personal Care,7,753,753.0,0,19.0,20,28,753.0,Wallet,Gold,No,No,5.0,Rider A
+10901,C1040,Zepto,Delhi,Snacks,4,400,300.0,25,59.0,10,22,600.0,COD,Gold,Yes,No,2.0,Rider B
+10902,C1006,,Chennai,Dairy,4,361,306.85,15,39.0,25,24,1534.25,Wallet,Silver,Yes,No,,Rider D
+10903,C1171,Instamart,Bengaluru,Personal Care,2,485,436.5,10,59.0,25,37,1309.5,UPI,Gold,Yes,Yes,1.0,Rider A
+10904,C1180,BigBasket Now,Mumbai,Vegetables,3,773,734.35,5,39.0,20,37,2937.4,Card,Silver,No,Yes,5.0,Rider E
+10905,C1161,BigBasket Now,Hyderabad,Household,3,702,526.5,25,19.0,30,36,3159.0,UPI,Gold,No,Yes,4.0,Rider B
+10906,C1250,BigBasket Now,Bengaluru,Dairy,3,800,680.0,15,59.0,15,19,4080.0,COD,Gold,No,No,,Rider E
+10907,C1284,BigBasket Now,Hyderabad,Vegetables,8,985,738.75,25,,10,6,5910.0,COD,None,No,Yes,5.0,Rider B
+10908,C1009,Zepto,Pune,Fruits,2,714,571.2,20,29.0,20,28,571.2,Card,None,Yes,Yes,5.0,Rider C
+10909,C1103,Blinkit,Hyderabad,Beverages,7,1000,900.0,10,59.0,25,28,3600.0,UPI,None,Yes,Yes,5.0,Rider C
+10910,C1138,BigBasket Now,Bengaluru,Vegetables,7,303,242.4,20,49.0,20,37,1939.2,COD,Gold,No,No,4.0,Rider A
+10911,C1140,Zepto,Chennai,Personal Care,5,853,682.4,20,49.0,25,39,3412.0,Wallet,Gold,No,Yes,3.0,Rider A
+10912,C1156,Instamart,Delhi,Household,7,1184,888.0,25,49.0,25,43,4440.0,Card,None,Yes,No,,Rider A
+10913,C1054,Instamart,Mumbai,Snacks,8,260,208.0,20,49.0,25,27,208.0,UPI,None,Yes,Yes,2.0,Rider B
+10914,C1084,Zepto,Pune,Beverages,8,219,197.1,10,0.0,15,24,394.2,UPI,None,No,No,5.0,Rider C
+10915,C1033,Zepto,Hyderabad,Beverages,2,1177,1059.3,10,49.0,30,26,7415.1,Card,Silver,No,No,2.0,Rider C
+10916,C1097,Zepto,Chennai,Vegetables,2,108,75.6,30,0.0,15,15,226.8,UPI,None,Yes,Yes,,Rider A
+10917,C1001,Blinkit,Delhi,Vegetables,2,74,59.2,20,0.0,10,23,414.4,UPI,Silver,Yes,Yes,5.0,Rider A
+10918,C1028,Zepto,Bengaluru,Personal Care,5,123,92.25,25,39.0,20,19,276.75,UPI,None,Yes,No,5.0,Rider D
+10919,C1279,Instamart,Pune,Household,4,856,599.2,30,0.0,10,14,4194.4,Wallet,Silver,Yes,Yes,,Rider D
+10920,C1007,Blinkit,Bengaluru,Vegetables,2,970,824.5,15,,15,14,4122.5,UPI,None,Yes,Yes,5.0,Rider B
+10921,C1100,Instamart,Pune,Vegetables,3,422,358.7,15,49.0,30,44,717.4,Wallet,Gold,Yes,No,5.0,Rider D
+10922,C1299,BigBasket Now,Delhi,Beverages,8,1174,1115.3,5,29.0,15,10,1115.3,Card,Silver,Yes,Yes,2.0,Rider D
+10923,C1081,Zepto,Mumbai,Beverages,5,426,319.5,25,0.0,25,34,1917.0,COD,None,Yes,No,5.0,Rider B
+10924,C1071,Zepto,Delhi,Household,1,914,639.8,30,29.0,10,19,1919.4,Card,None,No,No,,Rider D
+10925,C1210,Instamart,Delhi,Beverages,7,167,133.6,20,29.0,15,11,1068.8,Card,Silver,No,No,,Rider C
+10926,C1180,Instamart,Hyderabad,Snacks,8,397,377.15,5,29.0,15,19,1131.45,Card,Silver,Yes,Yes,4.0,Rider D
+10927,C1197,Zepto,Mumbai,Fruits,3,1035,931.5,10,49.0,25,41,6520.5,COD,None,Yes,Yes,,Rider A
+10928,C1240,BigBasket Now,Mumbai,Personal Care,4,918,688.5,25,49.0,10,20,2754.0,Wallet,Gold,Yes,Yes,3.0,Rider B
+10929,C1109,Instamart,,Beverages,4,1042,937.8,10,0.0,25,24,4689.0,Wallet,Gold,No,Yes,5.0,Rider C
+10930,C1020,Instamart,Mumbai,Beverages,1,824,741.6,10,49.0,15,31,2966.4,Wallet,Gold,No,No,5.0,Rider E
+10931,C1205,Zepto,Hyderabad,Snacks,5,55,46.75,15,0.0,20,21,140.25,Wallet,Gold,Yes,No,3.0,Rider B
+10932,C1297,Instamart,Delhi,Beverages,3,1081,1026.95,5,0.0,15,15,7188.65,Card,Gold,Yes,No,2.0,Rider B
+10933,C1008,Zepto,Chennai,Fruits,6,277,235.45,15,0.0,30,30,941.8,COD,Gold,No,Yes,5.0,Rider C
+10934,C1094,Instamart,Delhi,Vegetables,5,174,121.8,30,59.0,10,26,121.8,COD,None,Yes,Yes,,Rider D
+10935,C1138,Zepto,Delhi,Beverages,8,817,612.75,25,59.0,30,25,612.75,UPI,Gold,No,No,,Rider D
+10936,C1130,Blinkit,Hyderabad,Vegetables,7,142,106.5,25,29.0,15,10,639.0,COD,None,No,Yes,4.0,Rider D
+10937,C1226,Instamart,Hyderabad,Vegetables,5,1149,1149.0,0,0.0,15,10,1149.0,Wallet,None,No,No,4.0,Rider E
+10938,C1247,Instamart,Bengaluru,Beverages,8,943,707.25,25,0.0,25,41,2121.75,Card,Silver,Yes,No,3.0,Rider C
+10939,C1111,Zepto,Bengaluru,Personal Care,4,196,137.2,30,29.0,30,27,548.8,Card,Gold,No,No,2.0,Rider E
+10940,C1164,Instamart,Pune,Fruits,3,847,592.9,30,29.0,10,15,4743.2,COD,Silver,Yes,No,1.0,Rider D
+10941,C1026,Blinkit,Delhi,Vegetables,3,154,130.9,15,29.0,15,14,130.9,COD,Silver,Yes,Yes,,Rider A
+10942,C1072,Blinkit,Chennai,fruit,8,1152,1036.8,10,59.0,10,20,4147.2,COD,Gold,No,Yes,1.0,Rider D
+10943,C1205,Blinkit,Hyderabad,Personal Care,2,670,670.0,0,19.0,20,22,5360.0,Card,Gold,No,No,1.0,Rider C
+10944,C1058,Blinkit,Chennai,Snacks,5,920,690.0,25,19.0,30,44,690.0,UPI,Silver,No,No,,Rider B
+10945,C1214,Instamart,Hyderabad,Beverages,4,229,160.3,30,19.0,10,6,160.3,UPI,None,No,No,,Rider B
+10946,C1191,Blinkit,Hyderabad,Beverages,5,649,551.65,15,49.0,20,25,3309.9,Card,Gold,No,No,,Rider E
+10947,C1270,Zepto,Pune,Vegetables,8,401,300.75,25,0.0,20,28,902.25,UPI,Silver,No,No,3.0,Rider E
+10948,C1233,Zepto,Bengaluru,Household,4,224,190.4,15,49.0,10,7,952.0,Wallet,None,Yes,Yes,3.0,Rider C
+10949,C1193,Instamart,Mumbai,Personal Care,4,980,980.0,0,49.0,25,28,7840.0,Card,Silver,No,No,1.0,Rider D
+10950,C1007,Blinkit,Hyderabad,Household,1,429,343.2,20,19.0,20,25,2402.4,COD,Gold,Yes,No,4.0,Rider D
+10951,C1163,Blinkit,Pune,Fruits,8,385,346.5,10,29.0,15,22,1386.0,COD,None,Yes,No,4.0,Rider C
+10952,C1124,Zepto,Pune,Vegetables,6,1020,765.0,25,0.0,10,7,3825.0,Card,,Yes,No,,Rider C
+10953,C1208,Blinkit,Delhi,Vegetables,5,678,542.4,20,29.0,25,35,1627.2,Card,Gold,Yes,Yes,,Rider B
+10954,C1175,BigBasket Now,Chennai,Household,3,183,146.4,20,59.0,30,41,439.2,COD,Silver,Yes,No,2.0,Rider C
+10955,C1216,blinkit,Bengaluru,Snacks,3,703,492.1,30,29.0,30,47,492.1,COD,Gold,Yes,Yes,5.0,Rider C
+10956,C1043,Blinkit,Bengaluru,Beverages,8,1163,1163.0,0,19.0,15,22,6978.0,COD,Gold,No,Yes,3.0,Rider B
+10957,C1219,Instamart,Delhi,Dairy,3,1033,929.7,10,0.0,15,26,4648.5,COD,None,Yes,Yes,3.0,Rider C
+10958,C1079,BigBasket Now,Chennai,Dairy,7,1013,709.1,30,49.0,10,5,3545.5,COD,Silver,Yes,No,2.0,Rider E
+10959,C1299,blinkit,Chennai,Snacks,7,988,741.0,25,49.0,25,32,2223.0,COD,Silver,Yes,No,5.0,Rider E
+10960,C1114,Zepto,Mumbai,Household,1,469,469.0,0,29.0,30,40,1876.0,Card,Silver,No,Yes,2.0,Rider A
+10961,C1265,Instamart,Pune,Vegetables,6,51,40.8,20,39.0,25,20,326.4,Card,None,Yes,No,5.0,Rider D
+10962,C1005,Blinkit,Chennai,Beverages,3,395,375.25,5,39.0,30,32,2251.5,UPI,Silver,Yes,Yes,1.0,Rider D
+10963,C1071,Zepto,Delhi,Dairy,6,624,561.6,10,29.0,20,36,1684.8,COD,Silver,Yes,Yes,3.0,Rider C
+10964,C1298,Zepto,Chennai,Vegetables,3,1139,968.15,15,29.0,10,6,5808.9,Card,None,No,Yes,1.0,Rider A
+10965,C1038,Instamart,Bengaluru,Household,6,338,304.2,10,39.0,15,15,304.2,Card,Silver,Yes,No,3.0,Rider C
+10966,C1043,Blinkit,Chennai,Household,7,328,262.4,20,39.0,25,37,1049.6,COD,None,No,No,5.0,Rider D
+10967,C1191,Instamart,Delhi,Vegetables,5,1124,1067.8,5,49.0,30,47,3203.4,COD,Gold,Yes,Yes,3.0,Rider A
+10968,C1189,Blinkit,Chennai,Vegetables,8,143,128.7,10,29.0,25,31,643.5,Card,Silver,Yes,No,2.0,Rider B
+10969,C1285,BigBasket Now,Hyderabad,Household,8,1003,852.55,15,59.0,15,12,5967.85,UPI,None,Yes,No,,Rider A
+10970,C1284,Zepto,Hyderabad,Dairy,1,394,334.9,15,39.0,25,32,2679.2,COD,None,No,Yes,5.0,Rider B
+10971,C1026,Instamart,Pune,Dairy,4,328,311.6,5,0.0,10,6,1869.6,Card,Silver,Yes,No,2.0,Rider D
+10972,C1129,Blinkit,Chennai,Household,2,1172,937.6,20,49.0,15,22,4688.0,Card,None,No,No,2.0,Rider C
+10973,C1147,Instamart,Hyderabad,Beverages,5,873,829.35,5,29.0,10,22,1658.7,COD,Silver,No,Yes,4.0,Rider C
+10974,C1283,BigBasket Now,Mumbai,Fruits,5,841,630.75,25,0.0,25,31,630.75,UPI,None,Yes,Yes,3.0,Rider D
+10975,C1096,BigBasket Now,Chennai,Beverages,5,203,172.55,15,49.0,20,16,1380.4,Card,Gold,No,No,4.0,Rider D
+10976,C1044,Zepto,Mumbai,Snacks,6,875,831.25,5,19.0,30,34,1662.5,COD,Silver,No,No,1.0,Rider C
+10977,C1016,BigBasket Now,Delhi,Household,7,614,552.6,10,,15,12,2763.0,COD,Gold,No,Yes,1.0,Rider E
+10978,C1173,Blinkit,Delhi,Dairy,1,490,392.0,20,0.0,30,40,3136.0,Card,Silver,No,No,2.0,Rider D
+10979,C1165,Blinkit,Mumbai,Vegetables,7,69,69.0,0,39.0,10,7,207.0,Card,None,Yes,Yes,,Rider C
+10980,C1279,Instamart,Pune,Fruits,6,259,246.05,5,59.0,20,27,1476.3,COD,None,No,No,1.0,Rider E
+10981,C1262,Blinkit,,Vegetables,5,1094,765.8,30,19.0,15,10,765.8,Card,Silver,Yes,No,3.0,Rider A
+10982,C1130,Instamart,Chennai,Dairy,3,660,528.0,20,19.0,15,33,4224.0,UPI,Gold,Yes,Yes,2.0,Rider A
+10983,C1246,BigBasket Now,Pune,Personal Care,3,408,367.2,10,39.0,30,39,367.2,UPI,None,Yes,Yes,,Rider C
+10984,C1236,Blinkit,Chennai,Vegetables,8,818,736.2,10,59.0,15,23,1472.4,Card,None,Yes,Yes,1.0,Rider D
+10985,C1144,Blinkit,Delhi,Fruits,3,903,857.85,5,39.0,30,41,5147.1,Wallet,Silver,No,Yes,4.0,Rider E
+10986,C1229,Zepto,Delhi,Vegetables,2,391,273.7,30,49.0,25,21,2189.6,UPI,None,Yes,No,1.0,Rider B
+10987,C1063,Zepto,Chennai,Beverages,2,593,533.7,10,19.0,25,38,3735.9,UPI,Gold,Yes,Yes,4.0,Rider D
+10988,C1132,blinkit,Delhi,Snacks,5,125,87.5,30,59.0,25,21,437.5,UPI,Silver,No,Yes,1.0,Rider C
+10989,C1210,BigBasket Now,Chennai,Beverages,1,607,455.25,25,0.0,30,39,1821.0,UPI,Gold,Yes,No,2.0,Rider A
+10990,C1205,Zepto,Bengaluru,Personal Care,7,141,98.7,30,39.0,30,42,789.6,Card,Silver,Yes,No,3.0,Rider E
+10991,C1202,Blinkit,Pune,Fruits,3,503,452.7,10,,20,27,2716.2,Card,,Yes,No,4.0,Rider C
+10992,C1206,blinkit,Bengaluru,Snacks,1,983,786.4,20,49.0,25,22,4718.4,Card,Gold,No,No,4.0,Rider A
+10993,C1179,BigBasket Now,Delhi,Personal Care,6,421,336.8,20,59.0,25,22,1347.2,Wallet,None,No,Yes,3.0,Rider B
+10994,C1146,Zepto,Chennai,Snacks,4,1057,1004.15,5,19.0,15,18,3012.45,UPI,Gold,No,No,3.0,Rider B
+10995,C1267,BigBasket Now,Bengaluru,Beverages,4,104,78.0,25,59.0,30,46,312.0,Card,Silver,No,No,2.0,Rider B
+10996,C1240,Blinkit,Bengaluru,Personal Care,1,267,253.65,5,0.0,20,27,1268.25,UPI,Silver,Yes,Yes,,Rider A
+10997,C1133,Zepto,Pune,Household,1,1144,915.2,20,19.0,10,25,7321.6,Wallet,None,No,Yes,,Rider C
+10998,C1052,Instamart,Delhi,Snacks,4,577,577.0,0,0.0,30,31,2885.0,Wallet,Silver,No,No,5.0,Rider B
+10999,C1068,,Chennai,Snacks,7,746,522.2,30,0.0,15,19,1566.6,UPI,Silver,Yes,Yes,1.0,Rider D
+11000,C1248,Zepto,Mumbai,Vegetables,4,796,796.0,0,39.0,15,16,796.0,Card,Silver,Yes,No,1.0,Rider A
+10001,C1024,Blinkit,Hyderabad,Fruits,6,703,667.85,5,49.0,25,40,667.85,Card,Gold,Yes,No,4.0,Rider A
+10002,C1030,Blinkit,Bengaluru,Personal Care,1,532,532.0,0,49.0,30,38,3724.0,UPI,Gold,Yes,Yes,3.0,Rider D
+10003,C1157,,Chennai,Beverages,4,335,268.0,20,29.0,10,23,536.0,UPI,None,Yes,Yes,4.0,Rider E
+10004,C1299,BigBasket Now,Mumbai,Dairy,4,915,640.5,30,19.0,20,29,2562.0,UPI,None,No,No,3.0,Rider D
+10005,C1262,BigBasket Now,Bengaluru,Household,6,629,503.2,20,19.0,10,8,4025.6,Wallet,Gold,Yes,No,3.0,Rider C
+10006,C1047,Instamart,Delhi,Personal Care,2,1057,845.6,20,0.0,25,22,4228.0,Wallet,Silver,No,No,1.0,Rider D
+10007,C1252,Blinkit,Bengaluru,Household,5,767,728.65,5,19.0,30,28,2914.6,Wallet,Silver,No,Yes,2.0,Rider D
+10008,C1220,Instamart,Pune,fruit,6,862,689.6,20,59.0,20,19,4827.2,Card,Gold,Yes,Yes,2.0,Rider B
+10009,C1093,Instamart,Mumbai,Fruits,3,517,517.0,0,39.0,25,38,3102.0,COD,Gold,Yes,No,,Rider E
+10010,C1053,BigBasket Now,Pune,Snacks,1,843,716.55,15,19.0,25,32,1433.1,Card,Silver,Yes,Yes,3.0,Rider E
+10011,C1077,Blinkit,Mumbai,Beverages,1,147,147.0,0,0.0,10,23,588.0,Wallet,Gold,No,No,5.0,Rider C
+10012,C1238,BigBasket Now,Delhi,Dairy,2,1011,1011.0,0,19.0,10,20,2022.0,COD,None,No,No,,Rider B
+10013,C1185,Zepto,Pune,Beverages,1,1097,1097.0,0,49.0,15,26,5485.0,UPI,None,No,No,2.0,Rider C
+10014,C1168,Zepto,Hyderabad,Household,4,496,396.8,20,19.0,30,41,2777.6,Card,Gold,No,No,,Rider A
+10015,C1132,Zepto,Pune,Beverages,6,97,67.9,30,39.0,20,30,407.4,COD,Gold,Yes,Yes,2.0,Rider D
+10016,C1000,BigBasket Now,Pune,Dairy,2,442,397.8,10,59.0,15,25,795.6,Wallet,None,Yes,No,2.0,Rider D
+10017,C1205,Blinkit,Pune,Vegetables,3,720,720.0,0,19.0,25,34,720.0,Card,None,No,Yes,5.0,Rider E
+10018,C1280,Zepto,Chennai,Fruits,2,1011,758.25,25,49.0,20,19,2274.75,Wallet,,Yes,Yes,3.0,Rider B
+10019,C1166,Instamart,,Snacks,3,639,511.2,20,0.0,15,28,3067.2,Wallet,None,No,Yes,5.0,Rider B
+10020,C1093,Blinkit,Bengaluru,Vegetables,3,1112,889.6,20,39.0,10,19,1779.2,UPI,Silver,No,Yes,5.0,Rider A
